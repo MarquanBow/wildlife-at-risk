@@ -1,0 +1,601 @@
+species,common_name,threat_status,basis_of_record,event_date,latitude,longitude,kingdom,phylum,class,order,family,genus,country
+"Mellita quinquiesperforata (Leske, 1778)",,,HUMAN_OBSERVATION,2025-01-01T00:22:08,-23.971439,-46.331776,Animalia,Echinodermata,Echinoidea,Echinolampadacea,Mellitidae,Mellita,Brazil
+"Burnsius orcus (Stoll, 1780)",,,HUMAN_OBSERVATION,2025-01-01T00:37:40,-15.809362,-47.811753,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Pyrgus,Brazil
+"Oxidus gracilis (C.L.Koch, 1847)",,,HUMAN_OBSERVATION,2025-01-01T00:31:48,-23.870615,-46.677128,Animalia,Arthropoda,Diplopoda,Polydesmida,Paradoxosomatidae,Oxidus,Brazil
+"Limacus flavus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T00:22:13,-23.870615,-46.677128,Animalia,Mollusca,Gastropoda,Stylommatophora,Limacidae,Limacus,Brazil
+"Xylophanes tersa Linnaeus, 1771",,,HUMAN_OBSERVATION,2025-01-01T01:17:18,-13.389122,-46.288342,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Xylophanes,Brazil
+"Apoica gelida Vecht, 1972",,,HUMAN_OBSERVATION,2025-01-01T01:42:33,-23.335287,-46.620656,Animalia,Arthropoda,Insecta,Hymenoptera,Vespidae,Apoica,Brazil
+"Spoladea recurvalis (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T01:01:35,-21.022849,-42.825424,Animalia,Arthropoda,Insecta,Lepidoptera,Crambidae,Spoladea,Brazil
+"Hemidactylus mabouia (Moreau De Jonnès, 1818)",,,HUMAN_OBSERVATION,2025-01-01T02:33:56,-21.022956,-42.82535,Animalia,Chordata,Squamata,,Gekkonidae,Hemidactylus,Brazil
+"Phereoeca uterella (Walsingham, 1897)",,,HUMAN_OBSERVATION,2025-01-01T02:50,-16.781743,-49.342515,Animalia,Arthropoda,Insecta,Lepidoptera,Tineidae,Phereoeca,Brazil
+"Ocypode quadrata (Fabricius, 1787)",,,HUMAN_OBSERVATION,2025-01-01T01:05:34,-18.741166,-39.746636,Animalia,Arthropoda,Malacostraca,Decapoda,Ocypodidae,Ocypode,Brazil
+"Tropidacris cristata (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T01:30:42,-15.84392,-48.939795,Animalia,Arthropoda,Insecta,Orthoptera,Romaleidae,Tropidacris,Brazil
+"Enyo gorgon Cramer, 1777",,,HUMAN_OBSERVATION,2025-01-01T05:22:51,-22.824388,-47.270779,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Enyo,Brazil
+"Ramphastos dicolorus Linnaeus, 1766",,,HUMAN_OBSERVATION,2025-01-01T05:22:03,-22.664964,-45.667241,Animalia,Chordata,Aves,Piciformes,Ramphastidae,Ramphastos,Brazil
+Vriesea flammea L.B.Sm.,,,HUMAN_OBSERVATION,2025-01-01T06:51,-24.240128,-46.996621,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Vriesea,Brazil
+"Nannopterum brasilianum (J.F.Gmelin, 1789)",,,HUMAN_OBSERVATION,2025-01-01T06:18,-29.37844,-52.081496,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,Brazil
+"Colaptes campestris campestroides (Malherbe, 1849)",,,HUMAN_OBSERVATION,2025-01-01T06:24,-29.38933,-52.07717,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes,Brazil
+"Amazonetta brasiliensis (J.F.Gmelin, 1789)",,,HUMAN_OBSERVATION,2025-01-01T06:28,-29.392293,-52.075836,Animalia,Chordata,Aves,Anseriformes,Anatidae,Amazonetta,Brazil
+"Plegadis chihi (Vieillot, 1817)",,,HUMAN_OBSERVATION,2025-01-01T06:29,-29.392293,-52.075836,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,Brazil
+"Agelaioides badius (Vieillot, 1819)",,,HUMAN_OBSERVATION,2025-01-01T06:45,-29.405418,-52.040075,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelaioides,Brazil
+Symphyopappus casarettoi B.L.Rob.,,,HUMAN_OBSERVATION,2025-01-01T07:45:47,-27.002161,-48.582753,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Symphyopappus,Brazil
+"Tapinoma melanocephalum (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T07:32,-25.481384,-50.649968,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Tapinoma,Brazil
+"Tersina viridis (Illiger, 1811)",,,HUMAN_OBSERVATION,2025-01-01T06:05:04,-22.664626,-45.66654,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Tersina,Brazil
+"Latrodectus geometricus C.L.Koch, 1841",,,HUMAN_OBSERVATION,2025-01-01T08:33:56,-14.24667,-47.894107,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,Latrodectus,Brazil
+"Furnarius rufus (Gmelin, 1788)",,,HUMAN_OBSERVATION,2025-01-01T08:38:57,-18.759156,-42.671952,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Furnarius,Brazil
+"Alpaida grayi (Blackwall, 1863)",,,HUMAN_OBSERVATION,2025-01-01T07:57:46,-22.810829,-45.673165,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Alpaida,Brazil
+"Poecilesthus Dejean, 1834",,,HUMAN_OBSERVATION,2025-01-01T07:45:24,-22.810829,-45.673165,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Poecilesthus,Brazil
+"Furnarius rufus (Gmelin, 1788)",,,HUMAN_OBSERVATION,2025-01-01T08:42:31,-18.759234,-42.671982,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Furnarius,Brazil
+"Omophoita Chevrolat, 1836",,,HUMAN_OBSERVATION,2025-01-01T07:51:45,-22.810829,-45.673165,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Omophoita,Brazil
+"Aramides saracura (Spix, 1825)",,,HUMAN_OBSERVATION,2025-01-01T07:50:10,-22.810829,-45.673165,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,Brazil
+"Machetornis rixosa (Vieillot, 1819)",,,HUMAN_OBSERVATION,2025-01-01T08:42:03,-18.759233,-42.671994,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Machetornis,Brazil
+"Polybia paulista Ihering, 1896",,,HUMAN_OBSERVATION,2025-01-01T08:46:48,-18.759295,-42.671967,Animalia,Arthropoda,Insecta,Hymenoptera,Eumenidae,Polybia,Brazil
+"Megalopyge urens Berg, 1882",,,HUMAN_OBSERVATION,2025-01-01T08:43:57,-29.550224,-51.091791,Animalia,Arthropoda,Insecta,Lepidoptera,Megalopygidae,Megalopyge,Brazil
+"Coereba flaveola (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T06:52,-5.930694,-35.223515,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Coereba,Brazil
+"Sicalis flaveola (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T09:10:52,-18.759364,-42.671982,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sicalis,Brazil
+"Zonotrichia capensis (P.L.S.Müller, 1776)",,,HUMAN_OBSERVATION,2025-01-01T09:34:58,-22.810829,-45.673165,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,Brazil
+Sapindus saponaria L.,,,HUMAN_OBSERVATION,2025-01-01T09:25:53,-23.969088,-46.330585,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Sapindaceae,Sapindus,Brazil
+"Aramides cajanea (Statius Muller, 1776)",,,HUMAN_OBSERVATION,2025-01-01T05:40,-5.930694,-35.223515,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,Brazil
+"Syngamia florella Cramer, 1781",,,HUMAN_OBSERVATION,2025-01-01T09:52:53,-14.24667,-47.894107,Animalia,Arthropoda,Insecta,Lepidoptera,Crambidae,Syngamia,Brazil
+"Platyrrhinus lineatus (E.Geoffroy, 1810)",,,HUMAN_OBSERVATION,2025-01-01T09:53:34,-14.197281,-47.618129,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Platyrrhinus,Brazil
+"Phenax variegata (Olivier, 1791)",,,HUMAN_OBSERVATION,2025-01-01T10:10,-23.588165,-48.254258,Animalia,Arthropoda,Insecta,Hemiptera,Fulgoridae,Phenax,Brazil
+"Plexippus paykulli (Audouin, 1826)",,,HUMAN_OBSERVATION,2025-01-01T10:09:53,-23.473917,-46.605471,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Plexippus,Brazil
+"Tetragonisca angustula (Latreille, 1811)",,,HUMAN_OBSERVATION,2025-01-01T10:25:08,-18.537961,-40.294662,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Tetragonisca,Brazil
+Coccinellidae,,,HUMAN_OBSERVATION,2025-01-01T10:38:53,-23.583459,-46.647097,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,,Brazil
+"Harmonia axyridis (Pallas, 1773)",,,HUMAN_OBSERVATION,2025-01-01T10:40:01,-23.583597,-46.647333,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,Harmonia,Brazil
+Bunchosia maritima (Vell.) J.F.Macbr.,,,HUMAN_OBSERVATION,2025-01-01T10:06:56,-27.014534,-48.581452,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Malpighiaceae,Bunchosia,Brazil
+"Hoplomutilla Ashmead, 1899",,,HUMAN_OBSERVATION,2025-01-01T10:18,-27.01452,-48.581478,Animalia,Arthropoda,Insecta,Hymenoptera,Mutillidae,Hoplomutilla,Brazil
+"Tinea pellionella Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T01:53:20,-5.956069,-39.081444,Animalia,Arthropoda,Insecta,Lepidoptera,Tineidae,Tinea,Brazil
+"Anartia jatrophae (Linnaeus, 1763)",,,HUMAN_OBSERVATION,2025-01-01T10:51:26,-23.584668,-46.64977,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Anartia,Brazil
+"Picumnus albosquamatus d'Orbigny, 1840",,,HUMAN_OBSERVATION,2025-01-01T11:39,-21.766857,-52.109643,Animalia,Chordata,Aves,Piciformes,Picidae,Picumnus,Brazil
+Xanthosoma wendlandii (Schott) Standl.,,,HUMAN_OBSERVATION,2025-01-01T06:37,-15.580388,-56.10542,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Xanthosoma,Brazil
+"Plexippus paykulli (Audouin, 1826)",,,HUMAN_OBSERVATION,2025-01-01T11:08:27,-22.405336,-47.547729,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Plexippus,Brazil
+Passiflora cincinnata Mast.,,,HUMAN_OBSERVATION,2025-01-01T11:27:49,-18.756596,-42.676262,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Passifloraceae,Passiflora,Brazil
+Xanthosoma wendlandii (Schott) Standl.,,,HUMAN_OBSERVATION,2025-01-01T06:56,-15.580388,-56.10542,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Xanthosoma,Brazil
+"Fluvicola nengeta (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T09:29,-22.925274,-47.740281,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Fluvicola,Brazil
+"Furnarius rufus (Gmelin, 1788)",,,HUMAN_OBSERVATION,2025-01-01T09:51,-22.927129,-47.766285,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Furnarius,Brazil
+"Colaptes melanochloros (J.F.Gmelin, 1788)",,,HUMAN_OBSERVATION,2025-01-01T10:45,-22.930948,-47.77088,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes,Brazil
+"Machetornis rixosa (Vieillot, 1819)",,,HUMAN_OBSERVATION,2025-01-01T10:52,-22.992027,-47.648295,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Machetornis,Brazil
+"Psittacara leucophthalmus (Müller & Pls, 1776)",,,HUMAN_OBSERVATION,2025-01-01T10:52,-22.961075,-47.643885,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Aratinga,Brazil
+"Columbina talpacoti (Temminck, 1810)",,,HUMAN_OBSERVATION,2025-01-01T11:21,-22.900809,-47.628336,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,Brazil
+"Apis mellifera Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T11:33,-22.889133,-47.721782,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Brazil
+"Gallinula galeata (Lichtenstein & Mhc, 1818)",,,HUMAN_OBSERVATION,2025-01-01T11:00:58,-18.756522,-42.675413,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula,Brazil
+"Bugula neritina (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T10:43,-23.969723,-46.334709,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bugulidae,Bugula,Brazil
+"Callichirus corruptus Hernáez, Miranda, Rio & Pinheiro, 2022",,,HUMAN_OBSERVATION,2025-01-01T10:31:12,-23.971773,-46.336147,Animalia,Arthropoda,Malacostraca,Decapoda,Callichiridae,Callichirus,Brazil
+"Chrysuronia versicolor (Vieillot, 1818)",,,HUMAN_OBSERVATION,2025-01-01T09:18:40,-25.290747,-49.057667,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Chrysuronia,Brazil
+"Syngamia florella Cramer, 1781",,,HUMAN_OBSERVATION,2025-01-01T12:09:40,-16.756735,-43.861128,Animalia,Arthropoda,Insecta,Lepidoptera,Crambidae,Syngamia,Brazil
+"Micrurus helleri Schmidt & Schmidt, 1925",,,HUMAN_OBSERVATION,2025-01-01T10:16:57,-9.965606,-67.870588,Animalia,Chordata,Squamata,,Elapidae,Micrurus,Brazil
+Cipura paludosa Aubl.,,,HUMAN_OBSERVATION,2025-01-01T07:10,-15.580388,-56.10542,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,Cipura,Brazil
+"Strategus validus (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T12:14:41,-22.405878,-47.547272,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Strategus,Brazil
+"Paraphasma marginale Redtenbacher, 1906",,,HUMAN_OBSERVATION,2025-01-01T05:04:03,-15.843895,-48.93953,Animalia,Arthropoda,Insecta,Phasmida,Pseudophasmatidae,Paraphasma,Brazil
+"Prionolopha serrata (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T10:21:52,-9.96622,-67.871781,Animalia,Arthropoda,Insecta,Orthoptera,Romaleidae,Prionolopha,Brazil
+"Tetragonisca angustula (Latreille, 1811)",,,HUMAN_OBSERVATION,2025-01-01T11:34:31,-23.543547,-46.674728,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Tetragonisca,Brazil
+Xanthosoma wendlandii (Schott) Standl.,,,HUMAN_OBSERVATION,2025-01-01T07:36,-15.580388,-56.10542,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Xanthosoma,Brazil
+Microgramma squamulosa (Kaulf.) de la Sota,,,HUMAN_OBSERVATION,2025-01-01T11:35:38,-23.543552,-46.674745,Plantae,Tracheophyta,Polypodiopsida,Polypodiales,Polypodiaceae,Microgramma,Brazil
+"Erinnyis ello Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T04:57:39,-15.843862,-48.939728,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Erinnyis,Brazil
+Thunbergia erecta (Benth.) T.Anderson,,,HUMAN_OBSERVATION,2025-01-01T11:37:01,-23.543172,-46.674429,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Thunbergia,Brazil
+"Pheugopedius genibarbis (Swainson, 1838)",,,HUMAN_OBSERVATION,2025-01-01T06:52,-15.580388,-56.10542,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Pheugopedius,Brazil
+"Sapajus libidinosus (Spix, 1823)",,,HUMAN_OBSERVATION,2025-01-01T11:42:22,-14.133985,-47.513994,Animalia,Chordata,Mammalia,Primates,Cebidae,Sapajus,Brazil
+"Thamnophilus doliatus (Linnaeus, 1764)",,,HUMAN_OBSERVATION,2025-01-01T07:16,-15.580388,-56.10542,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Thamnophilus,Brazil
+"Colonia colonus (Vieillot, 1818)",,,HUMAN_OBSERVATION,2025-01-01T07:22,-15.580388,-56.10542,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Colonia,Brazil
+"Columbina talpacoti (Temminck, 1810)",,,HUMAN_OBSERVATION,2025-01-01T12:16:17,-23.746755,-46.530807,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,Brazil
+"Chromacris speciosa (Thunberg, 1824)",,,HUMAN_OBSERVATION,2025-01-01T12:17:54,-23.746759,-46.53081,Animalia,Arthropoda,Insecta,Orthoptera,Romaleidae,Chromacris,Brazil
+"Trichonephila clavipes (Linnaeus, 1767)",,,HUMAN_OBSERVATION,2025-01-01T12:37:30,-30.241638,-51.118164,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Trichonephila,Brazil
+"Pygochelidon cyanoleuca (Vieillot, 1817)",,,HUMAN_OBSERVATION,2025-01-01T12:37:06,-22.853007,-46.335188,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Notiochelidon,Brazil
+"Felis catus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T12:01:17,-22.86645,-45.922547,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,Brazil
+"Theristicus caudatus (Boddaert, 1783)",,,HUMAN_OBSERVATION,2025-01-01T11:39:55,-15.815878,-47.90537,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Theristicus,Brazil
+"Melanis smithiae (Westwood, 1851)",,,HUMAN_OBSERVATION,2025-01-01T11:33,-27.979267,-53.15751,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Melanis,Brazil
+"Agylla separata Schaus, 1894",,,HUMAN_OBSERVATION,2025-01-01T12:37,-27.979483,-53.157144,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,Agylla,Brazil
+Bixa orellana L.,,,HUMAN_OBSERVATION,2025-01-01T13:05:25,-15.783263,-47.932537,Plantae,Tracheophyta,Magnoliopsida,Malvales,Bixaceae,Bixa,Brazil
+Solanum torvum Sw.,,,HUMAN_OBSERVATION,2025-01-01T13:05:38,-25.352167,-49.170623,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Brazil
+"Harmonia axyridis (Pallas, 1773)",,,HUMAN_OBSERVATION,2025-01-01T12:43:47,-28.203636,-51.518196,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,Harmonia,Brazil
+Opuntia monacantha Haw.,,,HUMAN_OBSERVATION,2025-01-01T10:59:57,-29.708357,-53.700504,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Brazil
+"Libytheana carinenta Cramer, 1779",,,HUMAN_OBSERVATION,2025-01-01T12:25:37,-22.885387,-42.005414,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Libytheana,Brazil
+"Brentus anchorago (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T13:39:29,-23.096433,-48.929031,Animalia,Arthropoda,Insecta,Coleoptera,Brentidae,Brentus,Brazil
+"Ascia monuste (Linnaeus, 1764)",,,HUMAN_OBSERVATION,2025-01-01T12:27:23,-22.885337,-42.005928,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Ascia,Brazil
+"Carales astur Cramer, 1777",,,HUMAN_OBSERVATION,2025-01-01T13:50:34,-23.659864,-47.0259,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,Carales,Brazil
+"Platnickina adamsoni (Berland, 1934)",,,HUMAN_OBSERVATION,2025-01-01T13:55:12,-23.659926,-47.025889,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,Platnickina,Brazil
+"Astralium latispina (R.A.Philippi, 1844)",,,HUMAN_OBSERVATION,2025-01-01T11:15:19,-22.896555,-42.027008,Animalia,Mollusca,Gastropoda,Trochida,Turbinidae,Astralium,Brazil
+"Bostrycapulus odites Collin, 2005",,,HUMAN_OBSERVATION,2025-01-01T11:25:54,-22.892183,-42.023289,Animalia,Mollusca,Gastropoda,Littorinimorpha,Calyptraeidae,Bostrycapulus,Brazil
+"Emerita brasiliensis Schmitt, 1935",,,HUMAN_OBSERVATION,2025-01-01T11:35:52,-22.888387,-42.019597,Animalia,Arthropoda,Malacostraca,Decapoda,Hippidae,Emerita,Brazil
+"Cocytius antaeus Drury, 1773",,,HUMAN_OBSERVATION,2025-01-01T14:02:32,-13.394972,-38.938112,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Cocytius,Brazil
+"Machtima crucigera (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T12:44:58,-22.885338,-42.005928,Animalia,Arthropoda,Insecta,Hemiptera,Coreidae,Machtima,Brazil
+"Heraclides astyalus (Godart, 1819)",,,HUMAN_OBSERVATION,2025-01-01T13:32,-25.812255,-48.536655,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Papilio,Brazil
+"Petunia axillaris (Lam.) Britton, Sterns & Poggenb.",,,HUMAN_OBSERVATION,2025-01-01T08:30,-15.798513,-47.808923,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Petunia,Brazil
+"Phocides polybius (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T14:04:25,-26.972878,-48.642182,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Phocides,Brazil
+"Nephilingis cruentata (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T14:09:06,-26.972989,-48.642073,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Nephilingis,Brazil
+"Alagoasa Bechyné, 1955",,,HUMAN_OBSERVATION,2025-01-01T09:23,-15.799117,-47.807686,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Alagoasa,Brazil
+Spermacoce verticillata L.,,,HUMAN_OBSERVATION,2025-01-01T13:50:32,-22.949687,-45.982897,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,Spermacoce,Brazil
+"Morpho anaxibia (Esper, 1798)",,,HUMAN_OBSERVATION,2025-01-01T11:15:50,-22.953732,-43.295193,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Morpho,Brazil
+"Psychosaura macrorhyncha (Hoge, 1946)",,,HUMAN_OBSERVATION,2025-01-01T11:55:27,-22.956049,-43.279971,Animalia,Chordata,Squamata,,Scincidae,Psychosaura,Brazil
+Hippobroma longiflora (L.) G.Don,,,HUMAN_OBSERVATION,2025-01-01T14:47:32,-22.960884,-43.211152,Plantae,Tracheophyta,Magnoliopsida,Asterales,Campanulaceae,Hippobroma,Brazil
+"Burnsius orcus (Stoll, 1780)",,,HUMAN_OBSERVATION,2025-01-01T14:17,-26.972802,-48.642034,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Pyrgus,Brazil
+"Lemonias Hübner, 1807",,,HUMAN_OBSERVATION,2025-01-01T10:28,-15.797325,-47.808533,Animalia,,,,,Lemonias,Brazil
+Cordia superba Cham.,,,HUMAN_OBSERVATION,2025-01-01T14:57:34,-22.96257,-43.215997,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Cordiaceae,Cordia,Brazil
+"Rupornis magnirostris (Gmelin, 1788)",,,HUMAN_OBSERVATION,2025-01-01T11:32:07,-21.0226,-42.8252,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Rupornis,Brazil
+"Paraponera clavata (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T15:15:33,-15.843933,-48.939645,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Paraponera,Brazil
+"Polistes lanio (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T12:46:01,-22.885272,-42.005661,Animalia,Arthropoda,Insecta,Hymenoptera,Eumenidae,Polistes,Brazil
+Vriesea flammea L.B.Sm.,,,HUMAN_OBSERVATION,2025-01-01T03:02:11,-26.922053,-49.057884,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Vriesea,Brazil
+"Cyllopoda claudicula Dalman, 1823",,,HUMAN_OBSERVATION,2025-01-01T12:51:32,-22.885345,-42.005458,Animalia,Arthropoda,Insecta,Lepidoptera,Geometridae,Cyllopoda,Brazil
+"Arilus carinatus (Forster, 1771)",,,HUMAN_OBSERVATION,2025-01-01T12:54:42,-22.885288,-42.006081,Animalia,Arthropoda,Insecta,Hemiptera,Reduviidae,Arilus,Brazil
+"Buteo brachyurus Vieillot, 1816",,,HUMAN_OBSERVATION,2025-01-01T08:58,-19.857541,-43.964539,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,Brazil
+Prosthechea aemula (Lindl.) W.E.Higgins,,,HUMAN_OBSERVATION,2025-01-01T15:38:05,-23.711517,-45.868397,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Prosthechea,Brazil
+"Argiope argentata (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T15:43:01,-22.897038,-45.945557,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Argiope,Brazil
+"Columbina squammata (R.Lesson, 1831)",,,HUMAN_OBSERVATION,2025-01-01T15:49:24,-8.741336,-35.088278,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,Brazil
+"Amazonetta brasiliensis (J.F.Gmelin, 1789)",,,HUMAN_OBSERVATION,2025-01-01T15:59:50,-23.715725,-45.86805,Animalia,Chordata,Aves,Anseriformes,Anatidae,Amazonetta,Brazil
+"Phimosus infuscatus (Lichtenstein, 1823)",,,HUMAN_OBSERVATION,2025-01-01T15:56:47,-23.714075,-45.86798,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Phimosus,Brazil
+Rhipsalis pachyptera Pfeiff.,,,HUMAN_OBSERVATION,2025-01-01T12:13:31,-24.245965,-46.99502,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Rhipsalis,Brazil
+Pouteria ramiflora (Mart.) Radlk.,,,HUMAN_OBSERVATION,2025-01-01T13:52:01,-19.27397,-45.783528,Plantae,Tracheophyta,Magnoliopsida,Ericales,Sapotaceae,Pouteria,Brazil
+Drosera hirtella St.Hil.,,,HUMAN_OBSERVATION,2025-01-01T12:07:33,-19.272498,-45.779785,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Droseraceae,Drosera,Brazil
+Palicourea rigida Kunth,,,HUMAN_OBSERVATION,2025-01-01T12:13:42,-19.272438,-45.779061,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,Palicourea,Brazil
+"Methona themisto Hübner, 1816",,,HUMAN_OBSERVATION,2025-01-01T16:02,-22.823885,-47.10475,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Methona,Brazil
+"Caretta caretta (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T14:29,-24.176102,-46.409473,Animalia,Chordata,Testudines,,Cheloniidae,Caretta,Brazil
+"Trichonephila clavipes (Linnaeus, 1767)",,,HUMAN_OBSERVATION,2025-01-01T15:12:45,-23.586175,-46.610012,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Trichonephila,Brazil
+Mirabilis jalapa L.,,,HUMAN_OBSERVATION,2025-01-01T15:12:15,-23.586133,-46.609988,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Nyctaginaceae,Mirabilis,Brazil
+Hamadryas februa (Hübner),,,HUMAN_OBSERVATION,2025-01-01T16:01,-22.823885,-47.10475,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Hamadryas,Brazil
+"Cogia crameri (McHenry, 1960)",,,HUMAN_OBSERVATION,2025-01-01T15:52,-22.823885,-47.10475,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Typhedanus,Brazil
+Justicia brandegeeana Wassh. & L.B.Sm.,,,HUMAN_OBSERVATION,2025-01-01T14:42:50,-23.581512,-46.609133,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Justicia,Brazil
+"Eriopis connexa (Germar, 1824)",,,HUMAN_OBSERVATION,2025-01-01T11:08,-30.077666,-53.193255,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,Eriopis,Brazil
+Cyperus ligularis L.,,,HUMAN_OBSERVATION,2025-01-01T14:01:46,-20.739618,-40.536912,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,Cyperus,Brazil
+Campuloclinium macrocephalum (Less.) DC.,,,HUMAN_OBSERVATION,2025-01-01T11:13,-29.71004,-53.73668,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Campuloclinium,Brazil
+"Plicatula gibbosa Lamarck, 1801",,,HUMAN_OBSERVATION,2025-01-01T13:59:44,-20.739374,-40.537628,Animalia,Mollusca,Bivalvia,Pectinida,Plicatulidae,Plicatula,Brazil
+"Lirophora paphia (Linnaeus, 1767)",,,HUMAN_OBSERVATION,2025-01-01T13:59:27,-20.739024,-40.537069,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Lirophora,Brazil
+Vriesea flammea L.B.Sm.,,,HUMAN_OBSERVATION,2025-01-01T06:28:55,-24.240797,-46.995978,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Vriesea,Brazil
+Pleroma heteromallum (D.Don) D.Don,,,HUMAN_OBSERVATION,2025-01-01T11:41:09,-21.366631,-44.769218,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Melastomataceae,Pleroma,Brazil
+Castilleja arvensis var. pastorei (Hicken) J.M.Egger,,,HUMAN_OBSERVATION,2025-01-01T11:18,-29.709755,-53.736858,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Orobanchaceae,Castilleja,Brazil
+"Bradypus crinitus Gray, 1850",,,HUMAN_OBSERVATION,2025-01-01T13:55:32,-20.226203,-40.232876,Animalia,Chordata,Mammalia,Pilosa,Bradypodidae,Bradypus,Brazil
+"Chauliognathus Hentz, 1830",,,HUMAN_OBSERVATION,2025-01-01T11:20,-29.709756,-53.736774,Animalia,Arthropoda,Insecta,Coleoptera,Cantharidae,Chauliognathus,Brazil
+"Danaus erippus (Cramer, 1775)",,,HUMAN_OBSERVATION,2025-01-01T13:57:11,-20.325447,-40.276633,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Danaus,Brazil
+Cuphea hyssopoides A.St.-Hil.,,,HUMAN_OBSERVATION,2025-01-01T13:22:36,-21.366081,-44.769642,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Lythraceae,Cuphea,Brazil
+Campuloclinium macrocephalum (Less.) DC.,,,HUMAN_OBSERVATION,2025-01-01T11:21,-29.709903,-53.736746,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Campuloclinium,Brazil
+"Erythrolamprus semiaureus (Cope, 1862)",,,HUMAN_OBSERVATION,2025-01-01T16:26:54,-28.895575,-51.373128,Animalia,Chordata,Squamata,,Colubridae,Erythrolamprus,Brazil
+Tillandsia stricta Sol. ex Ker Gawl.,,,HUMAN_OBSERVATION,2025-01-01T12:01:51,-21.367998,-44.769791,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Tillandsia,Brazil
+"Crotophaga ani Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T16:13:53,-23.787061,-46.43513,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Crotophaga,Brazil
+"Synoeca cyanea (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T16:15:52,-26.972755,-48.641861,Animalia,Arthropoda,Insecta,Hymenoptera,Vespidae,Synoeca,Brazil
+Cissia eous,,,HUMAN_OBSERVATION,2025-01-01T15:29:39,-15.727737,-47.889685,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Euptychia,Brazil
+Rubus niveus Thunb.,,,HUMAN_OBSERVATION,2025-01-01T11:41:30,-26.972765,-48.641812,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,Rubus,Brazil
+"Rutela lineola (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T16:37:29,-25.53263,-49.269447,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Rutela,Brazil
+"Myiopsitta monachus (Boddaert, 1783)",,,HUMAN_OBSERVATION,2025-01-01T15:40:19,-22.919492,-43.090947,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta,Brazil
+"Battus polydamas (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T11:24,-29.7097,-53.73688,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Battus,Brazil
+Mimosa bimucronata (DC.) Kuntze,,,HUMAN_OBSERVATION,2025-01-01T15:17:07,-21.829803,-41.290388,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Brazil
+"Coragyps atratus (Bechstein, 1793)",,,HUMAN_OBSERVATION,2025-01-01T16:45:16,-26.642097,-48.753695,Animalia,Chordata,Aves,Accipitriformes,Cathartidae,Coragyps,Brazil
+"Argiope argentata (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T16:41:59,-21.56594,-51.352707,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Argiope,Brazil
+Rhipsalis lindbergiana K.Schum.,,,HUMAN_OBSERVATION,2025-01-01T15:54:33,-22.925568,-43.172925,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Rhipsalis,Brazil
+Delonix regia (Bojer ex Hook.) Raf.,,,HUMAN_OBSERVATION,2025-01-01T15:15:15,-22.926764,-43.173687,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Delonix,Brazil
+"Furnarius rufus (Gmelin, 1788)",,,HUMAN_OBSERVATION,2025-01-01T15:21:26,-22.924959,-43.172949,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Furnarius,Brazil
+"Pitangus sulphuratus (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T15:32:44,-22.914588,-43.166593,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pitangus,Brazil
+Hamadryas februa (Hübner),,,HUMAN_OBSERVATION,2025-01-01T13:16:14,-23.408212,-47.354133,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Hamadryas,Brazil
+"Dynamine postverta Cramer, 1782",,,HUMAN_OBSERVATION,2025-01-01T13:59:57,-23.411747,-47.35357,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Dynamine,Brazil
+"Ascia monuste (Linnaeus, 1764)",,,HUMAN_OBSERVATION,2025-01-01T13:22:59,-23.408212,-47.354133,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Ascia,Brazil
+"Hamadryas amphinome (Linnaeus, 1767)",,,HUMAN_OBSERVATION,2025-01-01T13:51:06,-23.411747,-47.35357,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Hamadryas,Brazil
+Coccinellidae,,,HUMAN_OBSERVATION,2025-01-01T13:51:58,-23.541484,-46.689828,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,,Brazil
+"Macugonalia cavifrons (Stål, 1862)",,,HUMAN_OBSERVATION,2025-01-01T11:44,-29.709425,-53.735436,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Macugonalia,Brazil
+"Hypselonotus fulvus (De Geer, 1773)",,,HUMAN_OBSERVATION,2025-01-01T14:00,-29.728806,-53.722933,Animalia,Arthropoda,Insecta,Hemiptera,Coreidae,Hypselonotus,Brazil
+"Ptecticus lanei James, 1941",,,HUMAN_OBSERVATION,2025-01-01T17:12:45,-24.260798,-49.719395,Animalia,Arthropoda,Insecta,Diptera,Stratiomyidae,Ptecticus,Brazil
+"Parasteatoda tepidariorum (C.L.Koch, 1841)",,,HUMAN_OBSERVATION,2025-01-01T17:09:58,-22.4568,-43.143864,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,Parasteatoda,Brazil
+"Camponotus rufipes (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T14:05,-29.728767,-53.722547,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Camponotus,Brazil
+Syagrus romanzoffiana (Cham.) Glassman,,,HUMAN_OBSERVATION,2025-01-01T16:49:02,-27.611272,-48.505817,Plantae,Tracheophyta,Liliopsida,Arecales,Arecaceae,Syagrus,Brazil
+"Hydrochoerus hydrochaeris (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T05:13:54,-7.306462,-34.80218,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Hydrochoerus,Brazil
+"Tigrisoma lineatum (Boddaert, 1783)",,,HUMAN_OBSERVATION,2025-01-01T17:12:20,-29.906525,-51.773792,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Tigrisoma,Brazil
+"Parrhasius orgia (Hewitson, 1867)",,,HUMAN_OBSERVATION,2025-01-01T14:14,-29.72804,-53.72214,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Parrhasius,Brazil
+"Chordonota inermis (Wiedemann, 1830)",,,HUMAN_OBSERVATION,2025-01-01T17:04:16,-22.903713,-42.032708,Animalia,Arthropoda,Insecta,Diptera,Stratiomyidae,Chordonota,Brazil
+"Falconina gracilis (Keyserling, 1891)",,,HUMAN_OBSERVATION,2025-01-01T12:31,-16.781747,-49.342513,Animalia,Arthropoda,Arachnida,Araneae,Corinnidae,Falconina,Brazil
+"Dione vanillae (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T11:41,-16.781745,-49.342511,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Dione,Brazil
+"Apis mellifera Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T13:14,-16.741931,-49.297246,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Brazil
+"Ibotyporanga naideae Mello-Leitão, 1944",,,HUMAN_OBSERVATION,2025-01-01T15:05,-16.781707,-49.342501,Animalia,Arthropoda,Arachnida,Araneae,Pholcidae,Ibotyporanga,Brazil
+"Micrathena plana (C.L.Koch, 1836)",,,HUMAN_OBSERVATION,2025-01-01T15:15,-16.781718,-49.3425,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Micrathena,Brazil
+"Anartia jatrophae (Linnaeus, 1763)",,,HUMAN_OBSERVATION,2025-01-01T16:46,-16.781765,-49.342636,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Anartia,Brazil
+"Hermetia illucens (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T16:51,-16.781777,-49.342658,Animalia,Arthropoda,Insecta,Diptera,Stratiomyidae,Hermetia,Brazil
+"Oxyagrion terminale Selys, 1876",,,HUMAN_OBSERVATION,2025-01-01T14:27,-29.728859,-53.722775,Animalia,Arthropoda,Insecta,Odonata,Coenagrionidae,Oxyagrion,Brazil
+"Tyrannus melancholicus Vieillot, 1819",,,HUMAN_OBSERVATION,2025-01-01T15:34,-15.735935,-47.863384,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,Brazil
+"Sicalis flaveola (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T15:39,-15.735935,-47.863384,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sicalis,Brazil
+Spondias purpurea L.,,,HUMAN_OBSERVATION,2025-01-01T17:44:40,-22.918696,-42.816235,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Anacardiaceae,Spondias,Brazil
+"Hermetia illucens (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T14:35,-29.727473,-53.722244,Animalia,Arthropoda,Insecta,Diptera,Stratiomyidae,Hermetia,Brazil
+"Fluvicola nengeta (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T17:46:54,-23.822433,-45.361095,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Fluvicola,Brazil
+"Argiope argentata (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T17:44:47,-7.932475,-34.851121,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Argiope,Brazil
+"Agylla separata Schaus, 1894",,,HUMAN_OBSERVATION,2025-01-01T14:38,-29.727149,-53.721997,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,Agylla,Brazil
+"Ara chloropterus G.R.Gray, 1859",,,HUMAN_OBSERVATION,2025-01-01T16:53,-22.55689,-51.830916,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Ara,Brazil
+"Ara chloropterus G.R.Gray, 1859",,,HUMAN_OBSERVATION,2025-01-01T16:55,-22.451869,-51.936884,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Ara,Brazil
+"Ara chloropterus G.R.Gray, 1859",,,HUMAN_OBSERVATION,2025-01-01T16:52,-22.521514,-51.990327,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Ara,Brazil
+"Ascia monuste (Linnaeus, 1764)",,,HUMAN_OBSERVATION,2025-01-01T17:50:50,-26.883313,-48.64442,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Ascia,Brazil
+"Nicolaea Johnson, 1993",,,HUMAN_OBSERVATION,2025-01-01T14:40,-29.726193,-53.721897,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Nicolaea,Brazil
+"Zyxomma petiolatum Rambur, 1842",,,HUMAN_OBSERVATION,2025-01-01T00:24:11,8.31381,77.22381,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Zyxomma,India
+"Polypedates maculatus (Gray, 1830)",,,HUMAN_OBSERVATION,2025-01-01T04:32:25,12.046684,76.668277,Animalia,Chordata,Amphibia,Anura,Rhacophoridae,Polypedates,India
+"Pycnonotus cafer (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T07:54:32,17.417057,78.541237,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,India
+Brugmansia insignis (Barb.Rodr.) Lockwood ex R.E.Schult.,,,HUMAN_OBSERVATION,2025-01-01T08:01:43,10.009885,77.039606,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Brugmansia,India
+Pigea enneasperma (L.) P.I.Forst.,,,HUMAN_OBSERVATION,2025-01-01T08:11:58,17.415957,78.54056,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Violaceae,Pigea,India
+Calyptocarpus vialis Less.,,,HUMAN_OBSERVATION,2025-01-01T08:14:36,17.41567,78.540566,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calyptocarpus,India
+"Coladenia Moore, 1881",,,HUMAN_OBSERVATION,2025-01-01T08:50:12,12.840604,75.382257,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Coladenia,India
+Asystasia gangetica (L.) T.Anderson,,,HUMAN_OBSERVATION,2025-01-01T09:06:28,8.743101,76.698814,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Asystasia,India
+Stachytarpheta jamaicensis (L.) Vahl,,,HUMAN_OBSERVATION,2025-01-01T09:08:16,8.743144,76.698715,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,Stachytarpheta,India
+"Leptotes plinius (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T09:24:56,17.416241,78.540325,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Leptotes,India
+Cyanotis cristata (L.) D.Don,,,HUMAN_OBSERVATION,2025-01-01T09:29:26,12.14668,75.407345,Plantae,Tracheophyta,Liliopsida,Commelinales,Commelinaceae,Cyanotis,India
+"Hypolimnas bolina (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T03:59:55,17.430062,78.541593,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Hypolimnas,India
+"Mortonagrion varralli Fraser, 1920",,,HUMAN_OBSERVATION,2025-01-01T09:33:39,12.840604,75.382257,Animalia,Arthropoda,Insecta,Odonata,Coenagrionidae,Mortonagrion,India
+Hemidesmus indicus (L.) R.Br.,,,HUMAN_OBSERVATION,2025-01-01T09:44:21,12.14668,75.407345,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Hemidesmus,India
+"Scoliodon laticaudus Müller & Henle, 1838",,,HUMAN_OBSERVATION,2025-01-01T08:36:40,20.07966,72.791817,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Carcharhinidae,Scoliodon,India
+"Ardeola grayii (Sykes, 1832)",,,HUMAN_OBSERVATION,2025-01-01T09:31:52,12.933897,77.5755,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardeola,India
+"Cyornis tickelliae Blyth, 1843",,,HUMAN_OBSERVATION,2025-01-01T09:58:31,17.430062,78.541593,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cyornis,India
+"Merops orientalis Latham, 1801",,,HUMAN_OBSERVATION,2025-01-01T04:08:17,17.430799,78.5401,Animalia,Chordata,Aves,Coraciiformes,Meropidae,Merops,India
+"Dermestes maculatus DeGeer, 1774",,,HUMAN_OBSERVATION,2025-01-01,12.803416,79.711668,Animalia,Arthropoda,Insecta,Coleoptera,Dermestidae,Dermestes,India
+"Tetraponera rufonigra (Jerdon, 1851)",,,HUMAN_OBSERVATION,2025-01-01T10:08:38,19.128111,72.913506,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Tetraponera,India
+"Ceriagrion rubiae Laidlaw, 1916",,,HUMAN_OBSERVATION,2025-01-01T10:31:09,13.049971,80.21213,Animalia,Arthropoda,Insecta,Odonata,Coenagrionidae,Ceriagrion,India
+Probergrothius nigricornis,,,HUMAN_OBSERVATION,2025-01-01T10:36:05,19.125351,72.913578,Animalia,Arthropoda,Insecta,Hemiptera,Pyrrhocoridae,Probergrothius,India
+"Dinopium benghalense (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T10:46:41,13.000981,80.26915,Animalia,Chordata,Aves,Piciformes,Picidae,Dinopium,India
+"Pseudetroplus maculatus (Bloch, 1795)",,,HUMAN_OBSERVATION,2025-01-01T09:19:19,9.811746,76.277418,Animalia,Chordata,,Perciformes,Cichlidae,Etroplus,India
+"Mytella strigata (Hanley, 1843)",,,HUMAN_OBSERVATION,2025-01-01T09:18:01,9.802716,76.281866,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytella,India
+"Hydrobasileus croceus (Brauer, 1867)",,,HUMAN_OBSERVATION,2025-01-01T11:01:24,22.513865,88.360575,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Hydrobasileus,India
+Talinum fruticosum (L.) Juss.,,,HUMAN_OBSERVATION,2025-01-01T11:01:05,12.14668,75.407345,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Talinaceae,Talinum,India
+"Dicheros bimacula (Wiedemann, 1823)",,,HUMAN_OBSERVATION,2025-01-01T10:09:59,12.01556,79.805513,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Dicheros,India
+Bauhinia ×blakeana Dunn,,,HUMAN_OBSERVATION,2025-01-01T11:08:38,22.513046,88.362305,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Bauhinia,India
+Avicennia officinalis L.,,,HUMAN_OBSERVATION,2025-01-01T11:15:22,9.98874,76.272524,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Avicennia,India
+"Junonia iphita (Cramer, 1782)",,,HUMAN_OBSERVATION,2025-01-01T11:34:02,11.213137,75.798617,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Junonia,India
+"Ardea Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T11:31:48,22.311801,73.285826,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,India
+"Hirundo smithii Leach & K.D.Koenig, 1818",,,HUMAN_OBSERVATION,2025-01-01T08:35,22.312683,73.285382,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo,India
+"Emberiza bruniceps J.F.Brandt, 1841",,,HUMAN_OBSERVATION,2025-01-01T08:37,22.312683,73.285382,Animalia,Chordata,Aves,Passeriformes,Emberizidae,Emberiza,India
+Portulaca umbraticola Kunth,,,HUMAN_OBSERVATION,2025-01-01T11:39:14,11.213116,75.798699,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Portulacaceae,Portulaca,India
+Portulaca umbraticola Kunth,,,HUMAN_OBSERVATION,2025-01-01T11:40:05,11.213094,75.798379,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Portulacaceae,Portulaca,India
+"Himantopus himantopus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T08:03,22.312683,73.285382,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Himantopus,India
+Orthosiphon aristatus (Blume) Miq.,,,HUMAN_OBSERVATION,2025-01-01T11:42:14,11.213075,75.798489,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Orthosiphon,India
+"Delias eucharis (Drury, 1773)",,,HUMAN_OBSERVATION,2025-01-01T09:20,22.312683,73.285382,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Delias,India
+"Lanius vittatus Valenciennes, 1826",,,HUMAN_OBSERVATION,2025-01-01T08:35,22.312683,73.285382,Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,India
+"Streptopelia tranquebarica (Hermann, 1804)",,,HUMAN_OBSERVATION,2025-01-01T09:46,22.312683,73.285382,Animalia,Chordata,Aves,Columbiformes,Columbidae,Streptopelia,India
+Acanthus ilicifolius L.,,,HUMAN_OBSERVATION,2025-01-01T11:45:30,9.98874,76.272524,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Acanthus,India
+"Tapinoma melanocephalum (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T10:43:50,17.455878,78.440942,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Tapinoma,India
+"Danaus chrysippus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T12:13:01,13.731768,75.632753,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Danaus,India
+Thunbergia laurifolia Lindl.,,,HUMAN_OBSERVATION,2025-01-01T12:16:53,11.213211,75.798961,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Thunbergia,India
+Nyctanthes arbor-tristis L.,,,HUMAN_OBSERVATION,2025-01-01T12:12:56,16.662037,80.700912,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Oleaceae,Nyctanthes,India
+"Ticherra acte (Moore, 1857)",,,HUMAN_OBSERVATION,2025-01-01T11:48:51,26.116236,91.836119,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Ticherra,India
+"Copsychus saularis (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T12:22:50,19.900765,83.169688,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Copsychus,India
+"Papilio polytes Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T12:27:51,8.188156,77.423729,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Papilio,India
+"Fulica atra Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T06:41,12.929985,77.465327,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,India
+Calotropis gigantea (L.) W.T.Aiton,,,HUMAN_OBSERVATION,2025-01-01T06:44,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Calotropis,India
+Pluchea indica (L.) Less.,,,HUMAN_OBSERVATION,2025-01-01T06:51,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pluchea,India
+"Pavo cristatus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T06:52,12.929985,77.465327,Animalia,Chordata,Aves,Galliformes,Phasianidae,Pavo,India
+"Fulica atra Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T06:56,12.929985,77.465327,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,India
+Anas platyrhynchos f. domesticus,,,HUMAN_OBSERVATION,2025-01-01T06:57,12.929985,77.465327,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,India
+"Porphyrio poliocephalus (Latham, 1801)",,,HUMAN_OBSERVATION,2025-01-01T06:57,12.929985,77.465327,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyrio,India
+Luffa aegyptiaca Mill.,,,HUMAN_OBSERVATION,2025-01-01T07:00,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Luffa,India
+Macroptilium atropurpureum (DC.) Urb.,,,HUMAN_OBSERVATION,2025-01-01T07:10,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Macroptilium,India
+Clitoria ternatea L.,,,HUMAN_OBSERVATION,2025-01-01T07:12,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Clitoria,India
+Blepharis maderaspatensis (L.) B.Heyne ex Roth,,,HUMAN_OBSERVATION,2025-01-01T07:14,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Blepharis,India
+Thespesia populnea (L.) Sol. ex Corrêa,,,HUMAN_OBSERVATION,2025-01-01T07:23,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Thespesia,India
+"Nycticorax nycticorax (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T07:29,12.929985,77.465327,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nycticorax,India
+"Anhinga melanogaster Pennant, 1769",,,HUMAN_OBSERVATION,2025-01-01T07:33,12.929985,77.465327,Animalia,Chordata,Aves,Suliformes,Anhingidae,Anhinga,India
+"Spatula clypeata (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T07:34,12.929985,77.465327,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,India
+"Ardea cinerea Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T07:35,12.929985,77.465327,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,India
+"Spoladea recurvalis (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T07:46,12.929985,77.465327,Animalia,Arthropoda,Insecta,Lepidoptera,Crambidae,Spoladea,India
+"Ardeola grayii (Sykes, 1832)",,,HUMAN_OBSERVATION,2025-01-01T07:47,12.929985,77.465327,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardeola,India
+"Oecophylla smaragdina (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T07:50,12.929985,77.465327,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Oecophylla,India
+Plumbago auriculata Lam.,,,HUMAN_OBSERVATION,2025-01-01T07:52,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Plumbaginaceae,Plumbago,India
+"Ardea intermedia Wagler, 1829",,,HUMAN_OBSERVATION,2025-01-01T07:53,12.929985,77.465327,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,India
+Asystasia gangetica (L.) T.Anderson,,,HUMAN_OBSERVATION,2025-01-01T07:53,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Asystasia,India
+Holmskioldia sanguinea Retz.,,,HUMAN_OBSERVATION,2025-01-01T07:58,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Holmskioldia,India
+"Tringa glareola Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T07:56,12.929985,77.465327,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,India
+Ipomoea alba L.,,,HUMAN_OBSERVATION,2025-01-01T07:58,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Ipomoea,India
+"Plegadis falcinellus (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T08:02,12.929985,77.465327,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,India
+"Metopidius indicus (Latham, 1790)",,,HUMAN_OBSERVATION,2025-01-01T08:03,12.929985,77.465327,Animalia,Chordata,Aves,Charadriiformes,Jacanidae,Metopidius,India
+"Ardea Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T08:06,12.929985,77.465327,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,India
+"Argiope anasuja Thorell, 1887",,,HUMAN_OBSERVATION,2025-01-01T08:08,12.929985,77.465327,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Argiope,India
+"Ischnura senegalensis (Rambur, 1842)",,,HUMAN_OBSERVATION,2025-01-01T08:09,12.929985,77.465327,Animalia,Arthropoda,Insecta,Odonata,Coenagrionidae,Ischnura,India
+Spathodea campanulata Beauverd,,,HUMAN_OBSERVATION,2025-01-01T08:15,12.929985,77.465327,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,Spathodea,India
+"Acridotheres fuscus (Wagler, 1827)",,,HUMAN_OBSERVATION,2025-01-01T08:56,12.929985,77.465327,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Acridotheres,India
+"Elanus caeruleus (Desfontaines, 1789)",,,HUMAN_OBSERVATION,2025-01-01T08:59,12.929985,77.465327,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanus,India
+"Haliastur indus (Boddaert, 1783)",,,HUMAN_OBSERVATION,2025-01-01T09:18,12.929985,77.465327,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Haliastur,India
+"Hasarius adansoni (Audouin, 1826)",,,HUMAN_OBSERVATION,2025-01-01T11:11:43,12.914131,74.855957,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Hasarius,India
+"Emberiza melanocephala Scopoli, 1769",,,HUMAN_OBSERVATION,2025-01-01T09:50,15.834513,74.489125,Animalia,Chordata,Aves,Passeriformes,Emberizidae,Emberiza,India
+"Tringa glareola Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T08:09,12.929985,77.465327,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,India
+"Spatula clypeata (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T08:04,12.929985,77.465327,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,India
+"Anas poecilorhyncha J.R.Forster, 1781",,,HUMAN_OBSERVATION,2025-01-01T07:45,12.929985,77.465327,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,India
+"Euthalia aconthea Cramer, 1779",,,HUMAN_OBSERVATION,2025-01-01T11:20:51,22.513745,88.356028,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Euthalia,India
+"Euthalia aconthea Cramer, 1779",,,HUMAN_OBSERVATION,2025-01-01T12:31:17,22.510713,88.357251,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Euthalia,India
+"Trachemys scripta (Thunberg In Schoepff, 1792)",,,HUMAN_OBSERVATION,2025-01-01T12:58:24,13.361633,74.703423,Animalia,Chordata,Testudines,,Emydidae,Trachemys,India
+"Lissemys punctata (Bonnaterre, 1789)",,,HUMAN_OBSERVATION,2025-01-01T12:57:53,13.361633,74.703423,Animalia,Chordata,Testudines,,Trionychidae,Lissemys,India
+"Trabala vishnou (Lefèbvre, 1827)",,,HUMAN_OBSERVATION,2025-01-01T11:27,27.335319,88.611449,Animalia,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Trabala,India
+"Acasis viretata himalayica Prout, 1958",,,HUMAN_OBSERVATION,2025-01-01T11:30,27.335166,88.611578,Animalia,Arthropoda,Insecta,Lepidoptera,Geometridae,Acasis,India
+"Syntypistis perdix (Moore, 1879)",,,HUMAN_OBSERVATION,2025-01-01T11:49,27.335414,88.611342,Animalia,Arthropoda,Insecta,Lepidoptera,Notodontidae,Syntypistis,India
+"Spatula clypeata (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T14:27:48,28.528989,77.485356,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,India
+"Trichopterigia decorata (Moore, 1888)",,,HUMAN_OBSERVATION,2025-01-01T11:23,27.335452,88.611428,Animalia,Arthropoda,Insecta,Lepidoptera,Geometridae,Trichopterigia,India
+"Cyclophora intermixtaria (Swinhoe, 1892)",,,HUMAN_OBSERVATION,2025-01-01T11:24,27.335357,88.611299,Animalia,Arthropoda,Insecta,Lepidoptera,Geometridae,Cyclophora,India
+"Vanellus indicus (Boddaert, 1783)",,,HUMAN_OBSERVATION,2025-01-01T09:40:30,19.716857,85.193048,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Vanellus,India
+"Eurema hecabe (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T14:52:24,10.009316,76.572788,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Eurema,India
+"Himantopus himantopus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T09:37:28,19.716835,85.19303,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Himantopus,India
+"Ardea Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T15:06:47,19.71684,85.193064,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,India
+"Ixias pyrene (Linnaeus, 1764)",,,HUMAN_OBSERVATION,2025-01-01T14:34:46,19.111795,72.910945,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Ixias,India
+"Merops orientalis Latham, 1801",,,HUMAN_OBSERVATION,2025-01-01T15:33:14,21.204963,81.644734,Animalia,Chordata,Aves,Coraciiformes,Meropidae,Merops,India
+"Zizina otis (Fabricius, 1787)",,,HUMAN_OBSERVATION,2025-01-01T09:00,22.307159,73.181219,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Zizina,India
+"Elymnias hypermnestra Linnaeus, 1763",,,HUMAN_OBSERVATION,2025-01-01T15:45:52,19.111758,72.910656,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Elymnias,India
+"Belenois aurota (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T08:41,22.307159,73.181219,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Belenois,India
+"Belenois aurota (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T09:11,22.307159,73.181219,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Belenois,India
+"Junonia orithya Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T10:05,22.307159,73.181219,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Junonia,India
+"Junonia almana (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T10:14,22.307159,73.181219,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Junonia,India
+"Hypolimnas bolina (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T14:26:56,19.111795,72.910945,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Hypolimnas,India
+"Euchrysops cnejus (Fabricius, 1798)",,,HUMAN_OBSERVATION,2025-01-01T14:17:10,19.111795,72.910945,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Euchrysops,India
+"Leptotes plinius (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T13:53:14,19.111795,72.910945,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Leptotes,India
+"Leptotes plinius (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T13:52:09,19.111795,72.910945,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Leptotes,India
+"Leptotes plinius (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T13:50:24,19.111795,72.910945,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Leptotes,India
+"Leptotes plinius (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T14:30:01,19.111795,72.910945,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Leptotes,India
+"Anochetus Mayr, 1861",,,HUMAN_OBSERVATION,2025-01-01T10:28:49,12.416156,75.364123,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Anochetus,India
+"Pheidole phipsoni Forel, 1902",,,HUMAN_OBSERVATION,2025-01-01T10:29:13,12.416158,75.364101,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Pheidole,India
+"Polyrhachis exercita (Walker, 1859)",,,HUMAN_OBSERVATION,2025-01-01T10:31:20,12.416325,75.364775,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Polyrhachis,India
+"Talicada nyseus (Guérin-Méneville, 1843)",,,HUMAN_OBSERVATION,2025-01-01T16:26:52,19.196239,72.969,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Talicada,India
+"Ariadne merione (Cramer, 1779)",,,HUMAN_OBSERVATION,2025-01-01T09:19:35,12.878611,77.53065,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Ariadne,India
+"Myrmaplata plataleoides (O.Pickard-Cambridge, 1869)",,,HUMAN_OBSERVATION,2025-01-01T09:06:15,12.879603,77.530933,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Myrmaplata,India
+"Terpsiphone paradisi (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T16:31:35,12.144561,75.385242,Animalia,Chordata,Aves,Passeriformes,Monarchidae,Terpsiphone,India
+"Hippasa Simon, 1885",,,HUMAN_OBSERVATION,2025-01-01T10:57,12.880405,77.689824,Animalia,Arthropoda,Arachnida,Araneae,Lycosidae,Hippasa,India
+"Telamonia dimidiata (Simon, 1899)",,,HUMAN_OBSERVATION,2025-01-01T11:01,12.880405,77.689824,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Telamonia,India
+Tournefortia heyneana Wall. ex G.Don,,,HUMAN_OBSERVATION,2025-01-01T11:31:45,12.416138,75.364105,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Heliotropiaceae,Tournefortia,India
+"Merops orientalis Latham, 1801",,,HUMAN_OBSERVATION,2025-01-01T16:47:14,17.362831,80.399439,Animalia,Chordata,Aves,Coraciiformes,Meropidae,Merops,India
+"Graphium agamemnon (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T16:52:49,12.89054,77.704464,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Graphium,India
+Pergularia daemia (Forssk.) Chiov.,,,HUMAN_OBSERVATION,2025-01-01T12:20:01,26.479419,74.552556,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Pergularia,India
+"Halcyon smyrnensis (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T15:10:15,26.489567,74.55515,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Halcyon,India
+Verbesina encelioides (Cav.) Benth. & Hook.fil. ex A.Gray,,,HUMAN_OBSERVATION,2025-01-01T16:57:58,26.477264,74.553878,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Verbesina,India
+"Vanellus indicus (Boddaert, 1783)",,,HUMAN_OBSERVATION,2025-01-01T16:48:41,26.477275,74.553861,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Vanellus,India
+"Delias eucharis (Drury, 1773)",,,HUMAN_OBSERVATION,2025-01-01T17:05:09,12.75119,80.193824,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Delias,India
+Coelognathus helena helena,,,HUMAN_OBSERVATION,2025-01-01T15:57:29,18.554685,73.792692,Animalia,Chordata,Squamata,,Colubridae,Coelognathus,India
+"Diodon holocanthus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T17:04:58,12.850495,80.248716,Animalia,Chordata,,Tetraodontiformes,Diodontidae,Diodon,India
+"Sturnia pagodarum (Gmelin, 1789)",,,HUMAN_OBSERVATION,2025-01-01T16:53:28,12.848393,80.244822,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnia,India
+"Neurothemis tullia (Drury, 1773)",,,HUMAN_OBSERVATION,2025-01-01T17:44:08,11.287681,75.919226,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Neurothemis,India
+"Neurothemis tullia (Drury, 1773)",,,HUMAN_OBSERVATION,2025-01-01T17:44:34,11.287676,75.918581,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Neurothemis,India
+"Neurothemis tullia (Drury, 1773)",,,HUMAN_OBSERVATION,2025-01-01T17:45:12,11.287681,75.918756,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Neurothemis,India
+"Zizula hylax (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T12:06,19.158222,72.959743,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Zizula,India
+"Acridotheres tristis (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T11:17:27,28.524875,77.186061,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Acridotheres,India
+"Psittacula krameri (Scopoli, 1769)",,,HUMAN_OBSERVATION,2025-01-01T11:20:37,28.524466,77.185906,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Psittacula,India
+"Psittacula eupatria (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T11:26:02,28.524346,77.184999,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Psittacula,India
+"Milvus migrans (Boddaert, 1783)",,,HUMAN_OBSERVATION,2025-01-01T11:26:21,28.524326,77.184861,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Milvus,India
+Leptadenia pyrotechnica (Forssk.) Decne.,,,HUMAN_OBSERVATION,2025-01-01T18:10:36,26.483056,74.529817,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Leptadenia,India
+"Argya striata (Dumont, 1823)",,,HUMAN_OBSERVATION,2025-01-01T12:45:32,28.586488,77.216861,Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Turdoides,India
+"Heteropoda venatoria (Linnaeus, 1767)",,,HUMAN_OBSERVATION,2025-01-01T18:12:43,8.540522,76.995513,Animalia,Arthropoda,Arachnida,Araneae,Sparassidae,Heteropoda,India
+"Anas poecilorhyncha J.R.Forster, 1781",,,HUMAN_OBSERVATION,2025-01-01T13:26:14,28.596607,77.222599,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,India
+Clitoria ternatea L.,,,HUMAN_OBSERVATION,2025-01-01T17:10:35,11.093681,76.781172,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Clitoria,India
+"Pseudibis papillosa (Temminck, 1824)",,,HUMAN_OBSERVATION,2025-01-01T13:41:56,28.590699,77.2206,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Pseudibis,India
+"Vanellus indicus (Boddaert, 1783)",,,HUMAN_OBSERVATION,2025-01-01T14:11:57,28.597109,77.245323,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Vanellus,India
+"Rhacophorus malabaricus Jerdon, 1870",,,HUMAN_OBSERVATION,2025-01-01T18:17,12.195484,75.169333,Animalia,Chordata,Amphibia,Anura,Rhacophoridae,Rhacophorus,India
+"Nygmia icilia Stoll, 1790",,,HUMAN_OBSERVATION,2025-01-01T18:04:04,13.336834,74.754433,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,Nygmia,India
+"Castalius rosimon (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T08:16,12.812319,80.100939,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Castalius,India
+"Pheidole parva Mayr, 1865",,,HUMAN_OBSERVATION,2025-01-01T17:43:09,13.042241,77.551829,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Pheidole,India
+"Leptotes plinius (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T08:16,12.810875,80.125434,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Leptotes,India
+"Pheidole parva Mayr, 1865",,,HUMAN_OBSERVATION,2025-01-01T17:29:02,13.042239,77.551837,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Pheidole,India
+"Semnopithecus entellus (Dufresne, 1797)",,,HUMAN_OBSERVATION,2025-01-01T10:30,25.090256,81.703182,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Semnopithecus,India
+"Argiope anasuja Thorell, 1887",,,HUMAN_OBSERVATION,2025-01-01T09:44:46,17.65136,78.072002,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Argiope,India
+"Anthia sexguttata (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T17:44:47,12.874525,80.072395,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,Anthia,India
+"Chrysocolaptes festivus (Boddaert, 1783)",,,HUMAN_OBSERVATION,2025-01-01T16:39,12.888916,77.704085,Animalia,Chordata,Aves,Piciformes,Picidae,Chrysocolaptes,India
+Hygrophila auriculata (Schumach.) Heine,,,HUMAN_OBSERVATION,2025-01-01T16:28:08,19.659847,85.104183,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Hygrophila,India
+"Pastor roseus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T09:07:13,17.641056,78.070753,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Pastor,India
+"Calotes versicolor (Daudin, 1802)",,,HUMAN_OBSERVATION,2025-01-01T18:30:49,12.88162,80.07612,Animalia,Chordata,Squamata,,Agamidae,Calotes,India
+"Oziotelphusa ganjamensis Pati & Sharma, 2012",,,HUMAN_OBSERVATION,2025-01-01T16:22:28,19.660002,85.104081,Animalia,Arthropoda,Malacostraca,Decapoda,Gecarcinucidae,Oziotelphusa,India
+Andrographis paniculata (Burm.fil.) Nees,,,HUMAN_OBSERVATION,2025-01-01T16:33:52,19.659958,85.104001,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Andrographis,India
+"Macaca assamensis (McClelland, 1840)",,,HUMAN_OBSERVATION,2025-01-01T11:23,27.468769,96.419196,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,India
+"Argas Latreille, 1795",,,HUMAN_OBSERVATION,2025-01-01T20:09,16.404167,74.378639,Animalia,Arthropoda,Arachnida,Ixodida,Argasidae,Argas,India
+"Catochrysops strabo (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T11:01:25,24.108683,88.253453,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Catochrysops,India
+"Melanitis leda Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T17:07:15,24.108683,88.253483,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Melanitis,India
+"Spoladea recurvalis (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-01T17:10:09,24.108681,88.253511,Animalia,Arthropoda,Insecta,Lepidoptera,Crambidae,Spoladea,India
+"Pyralis pictalis (Curtis, 1834)",,,HUMAN_OBSERVATION,2025-01-01T20:32:18,24.108689,88.253486,Animalia,Arthropoda,Insecta,Lepidoptera,Pyralidae,Pyralis,India
+"Eurema hecabe (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T20:37:53,19.125373,72.908983,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Eurema,India
+"Euthalia aconthea Cramer, 1779",,,HUMAN_OBSERVATION,2025-01-01T12:52:07,17.540921,83.042457,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Euthalia,India
+"Butastur teesa (Franklin, 1831)",,,HUMAN_OBSERVATION,2025-01-01T08:24,19.193394,73.018777,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Butastur,India
+"Funambulus tristriatus (Waterhouse, 1837)",,,HUMAN_OBSERVATION,2025-01-01T08:40,19.193394,73.018777,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Funambulus,India
+"Monticola solitarius (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T09:50,19.193394,73.018777,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Monticola,India
+"Anas platyrhynchos Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T21:09,30.765951,76.757278,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,India
+Anatidae,,,HUMAN_OBSERVATION,2025-01-01T21:10,30.765951,76.757278,Animalia,Chordata,Aves,Anseriformes,Anatidae,,India
+Cairina moschata var. domestica,,,HUMAN_OBSERVATION,2025-01-01T21:13,30.765951,76.757278,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cairina,India
+Anas platyrhynchos f. domesticus,,,HUMAN_OBSERVATION,2025-01-01T21:15,30.765951,76.757278,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,India
+"Leucauge decorata (Blackwall, 1864)",,,HUMAN_OBSERVATION,2025-01-01T09:40,10.173953,76.439001,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Leucauge,India
+"Copsychus saularis (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T12:09:12,17.165575,73.265812,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Copsychus,India
+"Strix ocellata (R.Lesson, 1839)",,,HUMAN_OBSERVATION,2025-01-01T20:27:20,11.938888,76.270042,Animalia,Chordata,Aves,Strigiformes,Strigidae,Strix,India
+"Hasora badra (Moore, 1857)",,,HUMAN_OBSERVATION,2025-01-01T21:35:28,9.790446,76.304676,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Hasora,India
+"Porphyrio poliocephalus (Latham, 1801)",,,HUMAN_OBSERVATION,2025-01-01T08:54:30,22.310172,73.278592,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyrio,India
+"Eurema laeta (Boisduval, 1836)",,,HUMAN_OBSERVATION,2025-01-01T20:22,23.182988,80.056925,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Eurema,India
+Spalgis epius,,,HUMAN_OBSERVATION,2025-01-01,10.527642,76.214435,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Spalgis,India
+"Comostola laesaria (Walker, 1861)",,,HUMAN_OBSERVATION,2025-01-01,10.527642,76.214435,Animalia,Arthropoda,Insecta,Lepidoptera,Geometridae,Comostola,India
+"Terpsiphone paradisi (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T15:45,10.527642,76.214435,Animalia,Chordata,Aves,Passeriformes,Monarchidae,Terpsiphone,India
+"Funambulus tristriatus (Waterhouse, 1837)",,,HUMAN_OBSERVATION,2025-01-01T15:47,10.527642,76.214435,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Funambulus,India
+"Felis catus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T15:51,10.527642,76.214435,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,India
+"Myrmarachne melanocephala MacLeay, 1839",,,HUMAN_OBSERVATION,2025-01-01T16:13,10.527642,76.214435,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Myrmarachne,India
+"Glaucidium radiatum (Tickell, 1833)",,,HUMAN_OBSERVATION,2025-01-01T18:23,10.527642,76.214435,Animalia,Chordata,Aves,Strigiformes,Strigidae,Glaucidium,India
+"Nephila pilipes (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T12:37:16,26.941308,94.875975,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Nephila,India
+"Eudynamys scolopaceus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T12:21,19.226934,72.974883,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Eudynamys,India
+"Anas poecilorhyncha J.R.Forster, 1781",,,HUMAN_OBSERVATION,2025-01-01T17:38,13.114999,78.035215,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,India
+"Anas acuta Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T16:10,17.55187,78.305223,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,India
+Ricinus communis L.,,,HUMAN_OBSERVATION,2025-01-01T17:22,17.553172,78.30659,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,India
+Croton bonplandianus Baill.,,,HUMAN_OBSERVATION,2025-01-01T17:23,17.553324,78.30665,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Croton,India
+incertae sedis,,,HUMAN_OBSERVATION,2025-01-15T12:14Z,-8.457726,115.263222,incertae sedis,,,,,,Indonesia
+"Neurothemis Brauer, 1867",,,HUMAN_OBSERVATION,2025-01-18T14:49Z,-8.456836,115.26317,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Neurothemis,Indonesia
+Ardeidae,Malayan Night-heron (ssp),,HUMAN_OBSERVATION,2025-01-17T08:31Z,-8.456806,115.263222,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,,Indonesia
+"Xylocopa Latreille, 1802",Carpenter Bee,,HUMAN_OBSERVATION,2025-01-30T19:33Z,-8.404517,115.264213,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Xylocopa,Indonesia
+Hymenoptera,Wasps,,HUMAN_OBSERVATION,2025-01-31T09:13Z,-8.462595,115.263917,Animalia,Arthropoda,Insecta,Hymenoptera,,,Indonesia
+"Spilopelia chinensis (Scopoli, 1786)",Spotted Turtle-dove,,HUMAN_OBSERVATION,2025-01-09T08:43Z,-8.45684,115.263138,Animalia,Chordata,Aves,Columbiformes,Columbidae,Spilopelia,Indonesia
+"Menemerus bivittatus (Dufour, 1831)",,,HUMAN_OBSERVATION,2025-01-14T14:49Z,-8.456836,115.263322,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Menemerus,Indonesia
+"Cosmophasis Simon, 1901",,,HUMAN_OBSERVATION,2025-01-16T12:02Z,-8.457736,115.263292,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Cosmophasis,Indonesia
+"Plautia Stål, 1864",,,HUMAN_OBSERVATION,2025-01-13T16:51Z,-8.456965,115.263113,Animalia,Arthropoda,Insecta,Hemiptera,Pentatomidae,Plautia,Indonesia
+"Gehyra marginata Boulenger, 1887",,,HUMAN_OBSERVATION,2025-01-01T07:07:17,-0.454154,127.705039,Animalia,Chordata,Squamata,,Gekkonidae,Gehyra,Indonesia
+"Surniculus lugubris (Horsfield, 1821)",,,HUMAN_OBSERVATION,2025-01-01T07:46:23,-5.369206,105.242947,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Surniculus,Indonesia
+"Surniculus lugubris (Horsfield, 1821)",,,HUMAN_OBSERVATION,2025-01-01T06:35,-5.369843,105.243294,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Surniculus,Indonesia
+"Hypolimnas bolina (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-01T09:04,4.695135,96.749399,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Hypolimnas,Indonesia
+"Dysdercus Guerin-Méneville, 1831",,,HUMAN_OBSERVATION,2025-01-01T11:37,-0.453278,127.703509,Animalia,Arthropoda,Insecta,Hemiptera,Pyrrhocoridae,Dysdercus,Indonesia
+Tridax procumbens L.,,,HUMAN_OBSERVATION,2025-01-01T10:39:23,-7.832979,110.383985,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tridax,Indonesia
+"Junonia timorensis Wallace, 1869",,,HUMAN_OBSERVATION,2025-01-01T08:27:50,-10.360642,123.697128,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Junonia,Indonesia
+"Pycnonotus aurigaster (Vieillot, 1818)",,,HUMAN_OBSERVATION,2025-01-01T10:53:39,-7.397288,110.245829,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+"Xylocopa perforator Smith, 1861",,,HUMAN_OBSERVATION,2025-01-01T08:02:24,-10.359706,123.696892,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Xylocopa,Indonesia
+"Artabrus erythrocephalus (C.L.Koch, 1846)",,,HUMAN_OBSERVATION,2025-01-01T12:55:03,-8.547936,115.278017,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Artabrus,Indonesia
+"Papilio demoleus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T11:22:46,-7.842215,110.570832,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Papilio,Indonesia
+Annona squamosa L.,,,HUMAN_OBSERVATION,2025-01-01T12:28:08,-6.139104,106.704468,Plantae,Tracheophyta,Magnoliopsida,Magnoliales,Annonaceae,Annona,Indonesia
+"Drosophantis caeruleata (Hampson, 1893)",,,HUMAN_OBSERVATION,2025-01-01T11:56:06,-6.872485,106.944118,Animalia,Arthropoda,Insecta,Lepidoptera,Pyralidae,Drosophantis,Indonesia
+"Lethe europa Fabricius, 1775",,,HUMAN_OBSERVATION,2025-01-01T13:03:33,-6.180509,106.828383,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Lethe,Indonesia
+Spigelia anthelmia L.,,,HUMAN_OBSERVATION,2025-01-01T14:31:26,-8.75228,115.89494,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Loganiaceae,Spigelia,Indonesia
+"Rasbora argyrotaenia (Bleeker, 1849)",,,HUMAN_OBSERVATION,2025-01-01T12:00:47,-1.768622,103.764636,Animalia,Chordata,,Cypriniformes,Cyprinidae,Rasbora,Indonesia
+"Rasbora trilineata Steindachner, 1870",,,HUMAN_OBSERVATION,2025-01-01T12:06:59,-1.65697,103.680615,Animalia,Chordata,,Cypriniformes,Cyprinidae,Rasbora,Indonesia
+"Anabas testudineus (Bloch, 1792)",,,HUMAN_OBSERVATION,2025-01-01T12:08:58,-1.753442,103.68787,Animalia,Chordata,,Perciformes,Anabantidae,Anabas,Indonesia
+"Betta edithae Vierke, 1984",,,HUMAN_OBSERVATION,2025-01-01T12:41:44,-1.676407,103.701836,Animalia,Chordata,,Perciformes,Osphronemidae,Betta,Indonesia
+"Trichopsis vittata (Cuvier, 1831)",,,HUMAN_OBSERVATION,2025-01-01T12:51:52,-1.705615,103.687817,Animalia,Chordata,,Perciformes,Osphronemidae,Trichopsis,Indonesia
+"Boraras maculatus (Duncker, 1904)",,,HUMAN_OBSERVATION,2025-01-01T12:46:12,-1.783235,103.687996,Animalia,Chordata,,Cypriniformes,Cyprinidae,Boraras,Indonesia
+Spigelia anthelmia L.,,,HUMAN_OBSERVATION,2025-01-01T14:37:31,-8.751851,115.894853,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Loganiaceae,Spigelia,Indonesia
+Oldenlandia corymbosa L.,,,HUMAN_OBSERVATION,2025-01-01T14:47:47,-8.752236,115.89487,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,Oldenlandia,Indonesia
+"Papilio demoleus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-01T13:31:01,-6.210465,106.798211,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Papilio,Indonesia
+Ruellia tuberosa L.,,,HUMAN_OBSERVATION,2025-01-01T14:36,5.169595,96.608798,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Ruellia,Indonesia
+Catharanthus roseus (L.) G.Don,,,HUMAN_OBSERVATION,2025-01-01T09:23,5.154346,96.626425,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Catharanthus,Indonesia
+Avicennia marina (Forssk.) Vierh.,,,HUMAN_OBSERVATION,2025-01-01T15:39:51,-8.755278,115.89705,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Avicennia,Indonesia
+"Coenobita violascens Heller, 1862",,,HUMAN_OBSERVATION,2025-01-01T15:55:33,-8.755862,115.897475,Animalia,Arthropoda,Malacostraca,Decapoda,Coenobitidae,Coenobita,Indonesia
+Lumnitzera racemosa Willd.,,,HUMAN_OBSERVATION,2025-01-01T16:39:20,-8.758816,115.894088,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Combretaceae,Lumnitzera,Indonesia
+"Ardeola speciosa (Horsfield, 1821)",,,HUMAN_OBSERVATION,2025-01-01T16:42:09,-8.602432,115.104808,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardeola,Indonesia
+Thespesia populnea (L.) Sol. ex Corrêa,,,HUMAN_OBSERVATION,2025-01-01T17:42:42,-8.754541,115.893452,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Thespesia,Indonesia
+"Boraras maculatus (Duncker, 1904)",,,HUMAN_OBSERVATION,2025-01-01T12:47:25,-1.619784,103.727835,Animalia,Chordata,,Cypriniformes,Cyprinidae,Boraras,Indonesia
+"Rhyothemis phyllis (Sulzer, 1776)",,,HUMAN_OBSERVATION,2025-01-01T14:36,-0.447258,117.208683,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Rhyothemis,Indonesia
+"Geopelia striata (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T12:00,-0.514911,117.117666,Animalia,Chordata,Aves,Columbiformes,Columbidae,Geopelia,Indonesia
+"Varanus salvator macromaculatus Deraniyagala, 1944",,,HUMAN_OBSERVATION,2025-01-01T11:39,-0.513816,117.117518,Animalia,Chordata,Squamata,,Varanidae,Varanus,Indonesia
+"Periophthalmodon septemradiatus (Hamilton, 1822)",,,HUMAN_OBSERVATION,2025-01-01T11:32,-0.516005,117.118524,Animalia,Chordata,,Perciformes,Gobiidae,Periophthalmodon,Indonesia
+"Egretta garzetta (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-01T11:05,-0.501559,117.127176,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,Indonesia
+"Oryzias nigrimas Kottelat, 1990",,,HUMAN_OBSERVATION,2025-01-02T05:52,-1.680755,120.720971,Animalia,Chordata,,Beloniformes,Adrianichthyidae,Oryzias,Indonesia
+"Nomorhamphus rex Huylebrouck, Hadiaty & Herder, 2012",,,HUMAN_OBSERVATION,2025-01-02T06:02,-1.646888,120.435763,Animalia,Chordata,,Beloniformes,Zenarchopteridae,Nomorhamphus,Indonesia
+"Jorunna rubescens (Bergh, 1876)",,,HUMAN_OBSERVATION,2025-01-01T09:48,-8.298499,115.616315,Animalia,Mollusca,Gastropoda,Nudibranchia,Discodorididae,Jorunna,Indonesia
+"Amphidromus perversus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T07:36:20,-8.820035,115.161923,Animalia,Mollusca,Gastropoda,Stylommatophora,Camaenidae,Amphidromus,Indonesia
+"Linckia laevigata (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T08:22:50,-8.751928,115.894372,Animalia,Echinodermata,Asteroidea,Valvatida,Ophidiasteridae,Linckia,Indonesia
+Lumnitzera racemosa Willd.,,,HUMAN_OBSERVATION,2025-01-01T16:39:09,-8.583208,116.273154,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Combretaceae,Lumnitzera,Indonesia
+Aegiceras corniculatum (L.) Blanco,,,HUMAN_OBSERVATION,2025-01-01T16:03:55,-8.752156,115.894908,Plantae,Tracheophyta,Magnoliopsida,Ericales,Primulaceae,Aegiceras,Indonesia
+"Protoreaster nodosus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T09:15:32,-8.751975,115.894918,Animalia,Echinodermata,Asteroidea,Valvatida,Oreasteridae,Protoreaster,Indonesia
+"Protoreaster nodosus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T09:17:05,-8.751887,115.894631,Animalia,Echinodermata,Asteroidea,Valvatida,Oreasteridae,Protoreaster,Indonesia
+"Lissachatina fulica (Bowdich, 1822)",,,HUMAN_OBSERVATION,2025-01-01T20:17:41,-8.685105,115.17598,Animalia,Mollusca,Gastropoda,Stylommatophora,Achatinidae,Lissachatina,Indonesia
+Carica papaya L.,,,HUMAN_OBSERVATION,2025-01-02T10:11:31,-7.787658,110.354157,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Caricaceae,Carica,Indonesia
+"Lygosoma quadrupes (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-02T10:34:59,-6.057769,107.192992,Animalia,Chordata,Squamata,,Scincidae,Lygosoma,Indonesia
+"Orthetrum schneideri Förster, 1903",,,HUMAN_OBSERVATION,2025-01-02T09:03:28,-10.040075,123.932767,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Orthetrum,Indonesia
+"Orthetrum schneideri Förster, 1903",,,HUMAN_OBSERVATION,2025-01-02T09:00:21,-10.040075,123.932767,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Orthetrum,Indonesia
+"Cacomantis merulinus (Scopoli, 1786)",,,HUMAN_OBSERVATION,2025-01-02T06:16:11,-6.149528,106.801332,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Cacomantis,Indonesia
+"Lanius schach bentet Horsfield, 1821",,,HUMAN_OBSERVATION,2025-01-02T06:18:58,-6.144952,106.886023,Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,Indonesia
+"Ardeola speciosa (Horsfield, 1821)",,,HUMAN_OBSERVATION,2025-01-02T06:24,-6.036753,106.837241,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardeola,Indonesia
+"Amaurornis phoenicurus (Pennant, 1769)",,,HUMAN_OBSERVATION,2025-01-02T06:31:40,-6.082638,106.944799,Animalia,Chordata,Aves,Gruiformes,Rallidae,Amaurornis,Indonesia
+"Butorides striata (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T06:32:33,-6.023463,106.873108,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Butorides,Indonesia
+"Lanius schach bentet Horsfield, 1821",,,HUMAN_OBSERVATION,2025-01-02T06:22:31,-6.000037,106.866873,Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,Indonesia
+"Lanius schach bentet Horsfield, 1821",,,HUMAN_OBSERVATION,2025-01-02T06:33:17,-6.009789,106.84236,Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,Indonesia
+"Egretta garzetta (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-02T06:35:02,-6.099857,106.995663,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,Indonesia
+"Lonchura punctulata (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T06:36:42,-6.064493,106.912399,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Lonchura,Indonesia
+"Artamus leucorhynchus (Linnaeus, 1771)",,,HUMAN_OBSERVATION,2025-01-02T06:52:31,-6.030182,106.976302,Animalia,Chordata,Aves,Passeriformes,Artamidae,Artamus,Indonesia
+"Ardea purpurea manilensis Meyen, 1834",,,HUMAN_OBSERVATION,2025-01-02T06:52:53,-6.112633,106.999443,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,Indonesia
+"Prinia inornata Sykes, 1832",,,HUMAN_OBSERVATION,2025-01-02T07:03:38,-6.102279,106.975988,Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Prinia,Indonesia
+"Prinia inornata Sykes, 1832",,,HUMAN_OBSERVATION,2025-01-02T07:09:56,-6.123385,106.834821,Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Prinia,Indonesia
+"Helopsaltes certhiola (Pallas, 1811)",,,HUMAN_OBSERVATION,2025-01-02T07:25:43,-6.185675,106.861403,Animalia,Chordata,Aves,Passeriformes,Locustellidae,Locustella,Indonesia
+"Neurothemis feralis (Burmeister, 1839)",,,HUMAN_OBSERVATION,2025-01-02T07:17:29,-6.180379,106.890211,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Neurothemis,Indonesia
+"Neurothemis feralis (Burmeister, 1839)",,,HUMAN_OBSERVATION,2025-01-02T07:19:56,-6.180348,106.890209,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Neurothemis,Indonesia
+"Neurothemis feralis (Burmeister, 1839)",,,HUMAN_OBSERVATION,2025-01-02T07:22:38,-6.180274,106.890271,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Neurothemis,Indonesia
+"Cisticola juncidis (Rafinesque, 1810)",,,HUMAN_OBSERVATION,2025-01-02T07:24:02,-6.004652,106.945762,Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Cisticola,Indonesia
+Acrostichum aureum L.,,,HUMAN_OBSERVATION,2025-01-02T09:02:12,-10.040075,123.932767,Plantae,Tracheophyta,Polypodiopsida,Polypodiales,Pteridaceae,Acrostichum,Indonesia
+Strophocaulon unitum (L.) S.E.Fawc. & A.R.Sm.,,,HUMAN_OBSERVATION,2025-01-02T08:50:05,-10.039644,123.9353,Plantae,Tracheophyta,Polypodiopsida,Polypodiales,Thelypteridaceae,Strophocaulon,Indonesia
+"Neurothemis ramburii (Kaup, 1866)",,,HUMAN_OBSERVATION,2025-01-02T08:45:10,-10.039647,123.935306,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Neurothemis,Indonesia
+"Neurothemis ramburii (Kaup, 1866)",,,HUMAN_OBSERVATION,2025-01-02T08:23:09,-10.041775,123.939544,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Neurothemis,Indonesia
+"Graphium sarpedon (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T13:03:14,-7.845505,110.419376,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Graphium,Indonesia
+"Diplacodes trivialis (Rambur, 1842)",,,HUMAN_OBSERVATION,2025-01-02T13:23:41,-6.466571,106.448181,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Diplacodes,Indonesia
+Acalypha indica L.,,,HUMAN_OBSERVATION,2025-01-01T05:48:14,-7.701072,110.774827,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Acalypha,Indonesia
+Catharanthus roseus (L.) G.Don,,,HUMAN_OBSERVATION,2025-01-02T07:38:04,-7.701072,110.774827,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Catharanthus,Indonesia
+Zinnia elegans Jacq.,,,HUMAN_OBSERVATION,2025-01-02T07:39:22,-7.701072,110.774827,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Zinnia,Indonesia
+Tridax procumbens L.,,,HUMAN_OBSERVATION,2025-01-02T07:40:21,-7.701072,110.774827,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tridax,Indonesia
+"Hypolimnas bolina (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T07:56:25,-7.701072,110.774827,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Hypolimnas,Indonesia
+Celosia argentea L.,,,HUMAN_OBSERVATION,2025-01-02T08:02:11,-7.701072,110.774827,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,Celosia,Indonesia
+Syzygium myrtifolium Walp.,,,HUMAN_OBSERVATION,2025-01-02T08:52:15,-7.701072,110.774827,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Syzygium,Indonesia
+Jatropha podagrica Hook.,,,HUMAN_OBSERVATION,2025-01-02T09:38:53,-7.701072,110.774827,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Jatropha,Indonesia
+Physalis angulata L.,,,HUMAN_OBSERVATION,2025-01-02T09:39:36,-7.701072,110.774827,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Physalis,Indonesia
+"Trithemis festiva (Rambur, 1842)",,,HUMAN_OBSERVATION,2025-01-02T09:00:55,-10.040075,123.932767,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Trithemis,Indonesia
+"Pseudobufo subasper Tschudi, 1838",,,HUMAN_OBSERVATION,2025-01-01T14:58,-2.760856,111.9448,Animalia,Chordata,Amphibia,Anura,Bufonidae,Pseudobufo,Indonesia
+"Pulchrana baramica (Boettger, 1900)",,,HUMAN_OBSERVATION,2025-01-01T14:57,-2.760856,111.9448,Animalia,Chordata,Amphibia,Anura,Ranidae,Pulchrana,Indonesia
+"Microcarbo melanoleucos (Vieillot, 1817)",,,HUMAN_OBSERVATION,2025-01-02T15:41:15,-8.805059,115.233122,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Microcarbo,Indonesia
+"Egretta sacra (Gmelin, 1789)",,,HUMAN_OBSERVATION,2025-01-01T16:00:20,-8.803605,115.23738,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,Indonesia
+"Abudefduf septemfasciatus (Cuvier, 1830)",,,HUMAN_OBSERVATION,2025-01-01T15:49:02,-8.803438,115.237488,Animalia,Chordata,,Perciformes,Pomacentridae,Abudefduf,Indonesia
+"Clibanarius virescens (Krauss, 1843)",,,HUMAN_OBSERVATION,2025-01-01T15:39:41,-8.803037,115.237372,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Clibanarius,Indonesia
+"Abudefduf septemfasciatus (Cuvier, 1830)",,,HUMAN_OBSERVATION,2025-01-01T17:42,-8.803394,115.237373,Animalia,Chordata,,Perciformes,Pomacentridae,Abudefduf,Indonesia
+"Eretmochelys imbricata (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-02T12:30:16,-8.774547,115.40658,Animalia,Chordata,Testudines,,Cheloniidae,Eretmochelys,Indonesia
+"Leptosia nina (Fabricius, 1793)",,,HUMAN_OBSERVATION,2025-01-01T10:43:53,3.6848,97.654525,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Leptosia,Indonesia
+"Aplonis panayensis (Scopoli, 1786)",,,HUMAN_OBSERVATION,2025-01-02T16:19,1.646603,124.840073,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Aplonis,Indonesia
+"Cephrenes Waterhouse & Lyell, 1914",,,HUMAN_OBSERVATION,2025-01-02T16:20,1.600344,124.868966,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Cephrenes,Indonesia
+"Passer montanus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T16:23,1.600344,124.868966,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer,Indonesia
+"Cinnyris Cuvier, 1816",,,HUMAN_OBSERVATION,2025-01-02T16:38,1.600344,124.868966,Animalia,Chordata,Aves,Passeriformes,Nectariniidae,Cinnyris,Indonesia
+"Actitis hypoleucos (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T16:42,1.600344,124.868966,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Actitis,Indonesia
+"Pycnonotus aurigaster (Vieillot, 1818)",,,HUMAN_OBSERVATION,2025-01-02T16:43,1.790663,124.920408,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+"Aplonis panayensis (Scopoli, 1786)",,,HUMAN_OBSERVATION,2025-01-02T16:44,1.788126,124.989748,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Aplonis,Indonesia
+"Hemidactylus frenatus Duméril & Bibron, 1836",,,HUMAN_OBSERVATION,2025-01-02T16:45,1.600344,124.868966,Animalia,Chordata,Squamata,,Gekkonidae,Hemidactylus,Indonesia
+"Cinnyris Cuvier, 1816",,,HUMAN_OBSERVATION,2025-01-02T17:45,1.600344,124.868966,Animalia,Chordata,Aves,Passeriformes,Nectariniidae,Cinnyris,Indonesia
+"Corvus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-02T17:59,1.600344,124.868966,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,Indonesia
+"Passer montanus (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T16:03:41,-7.780106,110.377108,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer,Indonesia
+"Plexippus petersi (Karsch, 1878)",,,HUMAN_OBSERVATION,2025-01-02T14:19:19,-7.779861,110.377281,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Plexippus,Indonesia
+"Orthetrum sabina (Drury, 1773)",,,HUMAN_OBSERVATION,2025-01-01T11:00,-7.784262,110.391234,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Orthetrum,Indonesia
+"Hemidactylus frenatus Duméril & Bibron, 1836",,,HUMAN_OBSERVATION,2025-01-02T15:39:04,-7.424176,110.638762,Animalia,Chordata,Squamata,,Gekkonidae,Hemidactylus,Indonesia
+"Takydromus sexlineatus Daudin, 1802",,,HUMAN_OBSERVATION,2025-01-02T15:41:08,-7.52032,110.76499,Animalia,Chordata,Squamata,,Lacertidae,Takydromus,Indonesia
+"Polyrhachis dives Smith, 1857",,,HUMAN_OBSERVATION,2025-01-02T15:41,-7.527889,110.618458,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Polyrhachis,Indonesia
+Urena lobata L.,,,HUMAN_OBSERVATION,2025-01-01T18:46,5.195487,96.491116,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Urena,Indonesia
+Polyura schreiber,,,HUMAN_OBSERVATION,2025-01-02T12:59:18,5.201544,96.9397,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Polyura,Indonesia
+Praxelis clematidea (Griseb.) R.M.King & H.Rob.,,,HUMAN_OBSERVATION,2025-01-02T19:06,5.160642,96.627788,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Praxelis,Indonesia
+"Suncus murinus (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-02T20:18:26,-8.50162,115.552642,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Suncus,Indonesia
+"Turdus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-02T12:52:08,-7.528984,110.229794,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,Indonesia
+"Pericrocotus cinnamomeus (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-02T15:57,-7.140197,110.416306,Animalia,Chordata,Aves,Passeriformes,Campephagidae,Pericrocotus,Indonesia
+"Valanga nigricornis (Burmeister, 1838)",,,HUMAN_OBSERVATION,2025-01-02T15:42:15,-7.580431,110.634766,Animalia,Arthropoda,Insecta,Orthoptera,Acrididae,Valanga,Indonesia
+"Cecidochares connexa (Macquart, 1848)",,,HUMAN_OBSERVATION,2025-01-02T16:23:29,-7.432019,110.688742,Animalia,Arthropoda,Insecta,Diptera,Tephritidae,Cecidochares,Indonesia
+"Takydromus sexlineatus Daudin, 1802",,,HUMAN_OBSERVATION,2025-01-02T16:30:52,-7.420408,110.658207,Animalia,Chordata,Squamata,,Lacertidae,Takydromus,Indonesia
+"Ypthima philomela Linnaeus, 1763",,,HUMAN_OBSERVATION,2025-01-02T16:32:24,-7.426763,110.661033,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Ypthima,Indonesia
+"Acisoma panorpoides Rambur, 1842",,,HUMAN_OBSERVATION,2025-01-02T16:33:34,-7.419319,110.637835,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Acisoma,Indonesia
+"Lissachatina fulica (Bowdich, 1822)",,,HUMAN_OBSERVATION,2025-01-02T07:54,5.16622,96.624723,Animalia,Mollusca,Gastropoda,Stylommatophora,Achatinidae,Lissachatina,Indonesia
+"Trimeresurus hageni (Lidth De Jeude, 1886)",,,HUMAN_OBSERVATION,2025-01-02T21:29:45,3.688909,97.650128,Animalia,Chordata,Squamata,,Viperidae,Trimeresurus,Indonesia
+Celosia argentea L.,,,HUMAN_OBSERVATION,2025-01-03T11:07,5.157862,96.621215,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,Celosia,Indonesia
+"Dendrocygna arcuata (Horsfield, 1824)",,,HUMAN_OBSERVATION,2025-01-02T15:56,-7.453733,110.772761,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,Indonesia
+"Lonchura leucogastroides (Moore, 1858)",,,HUMAN_OBSERVATION,2025-01-02T16:08,-7.51732,110.627851,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Lonchura,Indonesia
+"Calotes versicolor (Daudin, 1802)",,,HUMAN_OBSERVATION,2025-01-02T16:12,-7.418086,110.744557,Animalia,Chordata,Squamata,,Agamidae,Calotes,Indonesia
+"Nycticorax nycticorax (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T16:16,-7.501655,110.738922,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nycticorax,Indonesia
+"Nycticorax nycticorax (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T16:13,-7.504382,110.681005,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nycticorax,Indonesia
+"Goniobranchus hintuanensis (Gosliner & Behrens, 1998)",,,HUMAN_OBSERVATION,2025-01-01T09:53,-8.298388,115.616299,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Goniobranchus,Indonesia
+"Hypselodoris paradisa Gosliner & R.F.Johnson, 2018",,,HUMAN_OBSERVATION,2025-01-01T09:55,-8.298298,115.616385,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Hypselodoris,Indonesia
+"Mexichromis trilineata (A.Adams & Reeve, 1850)",,,HUMAN_OBSERVATION,2025-01-01T09:57,-8.298303,115.61642,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Mexichromis,Indonesia
+"Unidentia sandramillenae Korshunova, Martynov, Bakken, Evertsen, Fletcher, Mudianta, Saito, Lundin, Schrödl & Picton, 2017",,,HUMAN_OBSERVATION,2025-01-01T09:59,-8.298299,115.616474,Animalia,Mollusca,Gastropoda,Nudibranchia,Unidentiidae,Unidentia,Indonesia
+"Bermudella Odhner, 1941",,,HUMAN_OBSERVATION,2025-01-01T10:01,-8.298323,115.616487,Animalia,Mollusca,Gastropoda,Nudibranchia,Goniodorididae,Okenia,Indonesia
+"Hypselodoris roo Gosliner & R.F.Johnson, 2018",,,HUMAN_OBSERVATION,2025-01-01T10:03,-8.298356,115.616492,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Hypselodoris,Indonesia
+"Caloria indica (Bergh, 1896)",,,HUMAN_OBSERVATION,2025-01-01T10:03,-8.298325,115.616525,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Caloria,Indonesia
+"Thorunna halourga R.F.Johnson & Gosliner, 2001",,,HUMAN_OBSERVATION,2025-01-01T10:09,-8.298387,115.616518,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Thorunna,Indonesia
+"Doriprismatica atromarginata (Cuvier, 1804)",,,HUMAN_OBSERVATION,2025-01-01T10:10,-8.298395,115.616537,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Doriprismatica,Indonesia
+"Hypselodoris iba Gosliner & R.F.Johnson, 2018",,,HUMAN_OBSERVATION,2025-01-01T10:17,-8.298473,115.616441,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Hypselodoris,Indonesia
+"Hypselodoris paradisa Gosliner & R.F.Johnson, 2018",,,HUMAN_OBSERVATION,2025-01-01T10:13,-8.298425,115.616441,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Hypselodoris,Indonesia
+"Nycticorax nycticorax (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-02T16:19,-7.44831,110.761086,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nycticorax,Indonesia
+"Pycnonotus aurigaster (Vieillot, 1818)",,,HUMAN_OBSERVATION,2025-01-03T07:38,-7.456564,110.647364,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+"Pycnonotus goiavier (Scopoli, 1786)",,,HUMAN_OBSERVATION,2025-01-03T07:38,-7.459559,110.757391,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+"Pycnonotus aurigaster (Vieillot, 1818)",,,HUMAN_OBSERVATION,2025-01-03T07:38,-7.499856,110.799529,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+"Pycnonotus goiavier (Scopoli, 1786)",,,HUMAN_OBSERVATION,2025-01-03T08:52:18,-8.781404,115.225572,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+Catharanthus roseus (L.) G.Don,,,HUMAN_OBSERVATION,2025-01-03T09:21,5.156447,96.626729,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Catharanthus,Indonesia
+Crescentia cujete L.,,,HUMAN_OBSERVATION,2025-01-03T09:10:15,-8.702753,115.25637,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,Crescentia,Indonesia
+"Calotes versicolor (Daudin, 1802)",,,HUMAN_OBSERVATION,2025-01-03T07:19:56,-6.996821,110.414312,Animalia,Chordata,Squamata,,Agamidae,Calotes,Indonesia
+"Pycnonotus goiavier (Scopoli, 1786)",,,HUMAN_OBSERVATION,2025-01-03T07:39,-7.598139,110.630539,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+"Geopelia striata (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-03T07:57,-7.545007,110.764997,Animalia,Chordata,Aves,Columbiformes,Columbidae,Geopelia,Indonesia
+"Todiramphus chloris (Boddaert, 1783)",,,HUMAN_OBSERVATION,2025-01-03T09:23:59,-8.779933,115.225425,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Todiramphus,Indonesia
+"Papilio demoleus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-03T08:10:45,-7.84486,110.418288,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Papilio,Indonesia
+"Hypolimnas bolina (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-03T08:13:04,-7.844681,110.418259,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Hypolimnas,Indonesia
+Zinnia elegans Jacq.,,,HUMAN_OBSERVATION,2025-01-03T08:17:25,-7.844718,110.418052,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Zinnia,Indonesia
+"Hemidactylus platyurus (Schneider, 1797)",,,HUMAN_OBSERVATION,2025-01-03T09:41:40,-8.641029,115.110718,Animalia,Chordata,Squamata,,Gekkonidae,Hemidactylus,Indonesia
+Clitoria ternatea L.,,,HUMAN_OBSERVATION,2025-01-02T08:46,5.147052,96.632696,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Clitoria,Indonesia
+"Philemon buceroides (Swainson, 1838)",,,HUMAN_OBSERVATION,2025-01-03T08:56:21,-0.832146,130.716283,Animalia,Chordata,Aves,Passeriformes,Meliphagidae,Philemon,Indonesia
+Rhizophora mucronata Lam.,,,HUMAN_OBSERVATION,2025-01-03T10:43:30,-8.76154,115.892688,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Rhizophoraceae,Rhizophora,Indonesia
+"Pareronia tritaea (Felder & Felder, 1859)",,,HUMAN_OBSERVATION,2025-01-03T12:25:15,1.670612,125.117697,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pareronia,Indonesia
+"Orthetrum sabina (Drury, 1773)",,,HUMAN_OBSERVATION,2025-01-03T11:52:52,-8.495077,115.251314,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Orthetrum,Indonesia
+"Appias libythea (Fabricius, 1775)",,,HUMAN_OBSERVATION,2025-01-03T11:10:50,-7.753383,110.394967,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Appias,Indonesia
+"Orthetrum sabina (Drury, 1773)",,,HUMAN_OBSERVATION,2025-01-03T11:09:30,-7.753386,110.394919,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Orthetrum,Indonesia
+"Paragomphus reinwardtii (Selys, 1854)",,,HUMAN_OBSERVATION,2025-01-03T12:36:34,-8.497883,115.251696,Animalia,Arthropoda,Insecta,Odonata,Gomphidae,Paragomphus,Indonesia
+"Lonchura leucogastroides (Moore, 1858)",,,HUMAN_OBSERVATION,2025-01-03T12:35:29,-8.661636,115.135457,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Lonchura,Indonesia
+"Lonchura maja (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-03T13:33:17,-8.661623,115.135472,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Lonchura,Indonesia
+"Lonchura punctulata (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-03T13:41:27,-8.661612,115.135457,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Lonchura,Indonesia
+"Monomorium pharaonis (Linnaeus, 1758)",,,HUMAN_OBSERVATION,2025-01-03T13:06:09,-6.088326,106.76615,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Monomorium,Indonesia
+"Papilio demoleus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-03T14:32:47,-6.55132,106.737296,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Papilio,Indonesia
+"Menemerus nigli Wesołowska & Freudenschuss, 2012",,,HUMAN_OBSERVATION,2025-01-03T11:18:05,-6.996931,110.414218,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Menemerus,Indonesia
+"Geopelia striata (Linnaeus, 1766)",,,HUMAN_OBSERVATION,2025-01-03T16:27:22,-8.662799,115.13715,Animalia,Chordata,Aves,Columbiformes,Columbidae,Geopelia,Indonesia
+"Callosciurus notatus (Boddaert, 1785)",,,HUMAN_OBSERVATION,2025-01-03T16:32:56,-8.662636,115.137403,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Callosciurus,Indonesia
+"Pycnonotus goiavier (Scopoli, 1786)",,,HUMAN_OBSERVATION,2025-01-03T16:55:34,-8.686033,115.175955,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+"Microcarbo melanoleucos (Vieillot, 1817)",,,HUMAN_OBSERVATION,2025-01-03T14:43:39,-8.80492,115.233212,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Microcarbo,Indonesia
+"Lissachatina fulica (Bowdich, 1822)",,,HUMAN_OBSERVATION,2025-01-03T17:58:45,-8.523408,115.286208,Animalia,Mollusca,Gastropoda,Stylommatophora,Achatinidae,Lissachatina,Indonesia
+"Pycnonotus aurigaster (Vieillot, 1818)",,,HUMAN_OBSERVATION,2025-01-03T18:07:30,-8.755314,115.129843,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+Eucalyptus alba Reinw. ex Blume,,,HUMAN_OBSERVATION,2025-01-02T07:32:51,-10.042358,123.946686,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Eucalyptus,Indonesia
+"Papilio demoleus Linnaeus, 1758",,,HUMAN_OBSERVATION,2025-01-03T19:11:34,-8.138645,114.571446,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Papilio,Indonesia
+"Wallagonia leerii (Bleeker, 1851)",,,HUMAN_OBSERVATION,2025-01-02T19:22:22,-2.173774,114.417306,Animalia,Chordata,,Siluriformes,Siluridae,Wallago,Indonesia
+"Pycnonotus goiavier (Scopoli, 1786)",,,HUMAN_OBSERVATION,2025-01-03T18:11,-8.138929,114.569974,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+"Pernis ptilorhynchus (Temminck, 1821)",,,HUMAN_OBSERVATION,2025-01-03T18:21,-8.138929,114.569974,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Pernis,Indonesia
+"Pycnonotus goiavier (Scopoli, 1786)",,,HUMAN_OBSERVATION,2025-01-03T18:21,-8.138929,114.569974,Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Pycnonotus,Indonesia
+"Hemibagrus capitulum (Popta, 1906)",,,HUMAN_OBSERVATION,2025-01-03T07:37:04,-2.177885,114.41463,Animalia,Chordata,,Siluriformes,Bagridae,Hemibagrus,Indonesia
+"Cania bandura (Moore, 1859)",,,HUMAN_OBSERVATION,2025-01-02T19:22:52,-2.094995,114.545985,Animalia,Arthropoda,Insecta,Lepidoptera,Limacodidae,Cania,Indonesia
+"Lissachatina fulica (Bowdich, 1822)",,,HUMAN_OBSERVATION,2025-01-01T06:39:09,1.530779,125.129032,Animalia,Mollusca,Gastropoda,Stylommatophora,Achatinidae,Lissachatina,Indonesia
+Thunbergia alata Bojer ex Sims,,,HUMAN_OBSERVATION,2025-01-01T07:07:14,1.523546,125.135047,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Thunbergia,Indonesia
+"Rhabdotorrhinus exarhatus (Temminck, 1823)",,,HUMAN_OBSERVATION,2025-01-01T07:59:58,1.476965,125.148512,Animalia,Chordata,Aves,Bucerotiformes,Bucerotidae,Rhabdotorrhinus,Indonesia
+"Lissachatina fulica (Bowdich, 1822)",,,HUMAN_OBSERVATION,2025-01-01T09:23:55,1.533613,125.131804,Animalia,Mollusca,Gastropoda,Stylommatophora,Achatinidae,Lissachatina,Indonesia
+Centrosema molle Mart. ex Benth.,,,HUMAN_OBSERVATION,2025-01-01T10:00:34,1.538602,125.132934,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Centrosema,Indonesia
+Macaranga tanarius (L.) Müll.Arg.,,,HUMAN_OBSERVATION,2025-01-01T10:32:40,1.553776,125.142415,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Macaranga,Indonesia
+Spathodea campanulata Beauverd,,,HUMAN_OBSERVATION,2025-01-01T10:39:32,1.554667,125.142633,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,Spathodea,Indonesia
+"Papilio gigon Felder & Felder, 1864",,,HUMAN_OBSERVATION,2025-01-01T18:35:40,1.570089,125.163626,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Papilio,Indonesia
